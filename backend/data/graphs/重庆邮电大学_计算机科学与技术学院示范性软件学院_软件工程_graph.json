@@ -1,0 +1,7139 @@
+{
+  "entities": [
+    {
+      "id": "major_软件工程",
+      "name": "软件工程",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1234205",
+      "name": "IT运维岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆望变电气（集团）股份有限公司",
+      "name": "重庆望变电气（集团）股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1239305",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳古瑞瓦特新能源有限公司",
+      "name": "深圳古瑞瓦特新能源有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1242556",
+      "name": "软件主任工程师（2025届-博士）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳市赢合科技股份有限公司",
+      "name": "深圳市赢合科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1246056",
+      "name": "数据分析处理工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中兵智能创新研究院有限公司",
+      "name": "中兵智能创新研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1246076",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中兵智能创新研究院有限公司",
+      "name": "中兵智能创新研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1247370",
+      "name": "软件设计师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆华伟工业（集团）有限责任公司",
+      "name": "重庆华伟工业（集团）有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1248679",
+      "name": "航天工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川航天川南火工技术有限公司",
+      "name": "四川航天川南火工技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1248863",
+      "name": "售前技术工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆闪亮科技有限公司",
+      "name": "重庆闪亮科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1250328",
+      "name": "应用层开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆同沃汽车科技有限公司",
+      "name": "重庆同沃汽车科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1250904",
+      "name": "数字出版编辑",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_福建人民出版社有限责任公司",
+      "name": "福建人民出版社有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1255393",
+      "name": "专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆智能工程职业学院",
+      "name": "重庆智能工程职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1258727",
+      "name": "物联网应用技术专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1258750",
+      "name": "大数据技术专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1258754",
+      "name": "计算机网络技术专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1265363",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳古瑞瓦特新能源有限公司",
+      "name": "深圳古瑞瓦特新能源有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1268333",
+      "name": "计算机类专职教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_昆明城市学院",
+      "name": "昆明城市学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1269402",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北太振寰（重庆）科技有限公司",
+      "name": "北太振寰（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1269916",
+      "name": "产品开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆青山工业有限责任公司",
+      "name": "重庆青山工业有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1270480",
+      "name": "高级机械研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_人本集团有限公司",
+      "name": "人本集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1271693",
+      "name": "芯片设计类",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广州安凯微电子股份有限公司",
+      "name": "广州安凯微电子股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1272583",
+      "name": "云计算技术应用专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1277512",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广州影子科技有限公司",
+      "name": "广州影子科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1290476",
+      "name": "AI算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_源亦成（重庆）大数据科技有限公司",
+      "name": "源亦成（重庆）大数据科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1295913",
+      "name": "研发工程师JAVA",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江菜鸟供应链管理有限公司",
+      "name": "浙江菜鸟供应链管理有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1296362",
+      "name": "人工智能专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆能源职业学院",
+      "name": "重庆能源职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1307429",
+      "name": "软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中冶南方（武汉）热工有限公司",
+      "name": "中冶南方（武汉）热工有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1308015",
+      "name": "助理研究员/工程师/讲师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_国防科技大学试验训练基地",
+      "name": "国防科技大学试验训练基地",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1308439",
+      "name": "算法工程师（AI）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州迪普科技股份有限公司",
+      "name": "杭州迪普科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1308744",
+      "name": "自动化软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州长川科技股份有限公司",
+      "name": "杭州长川科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1311788",
+      "name": "图像系统工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_飞依诺科技股份有限公司",
+      "name": "飞依诺科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1311821",
+      "name": "工科类教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆移通学院",
+      "name": "重庆移通学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1317257",
+      "name": "总行博士后研究人员（广州）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广发银行股份有限公司",
+      "name": "广发银行股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1318661",
+      "name": "工业互联网技术专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆现代制造职业学院",
+      "name": "重庆现代制造职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322445",
+      "name": "C++(QT)软件工程师（桂林、成都）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_桂林长海发展有限责任公司",
+      "name": "桂林长海发展有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322446",
+      "name": "前端软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_桂林长海发展有限责任公司",
+      "name": "桂林长海发展有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322731",
+      "name": "C++开发工程师（CAD软件开发）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322734",
+      "name": "C++开发工程师（CAE软件开发）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322737",
+      "name": "C++开发工程师（CAM软件开发）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322745",
+      "name": "云平台前端开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322746",
+      "name": "云平台Java开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322747",
+      "name": "云平台测试开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322755",
+      "name": "云平台C++开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1322962",
+      "name": "机械工程师（载荷/结构/传动/热管理）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_三一重能股份有限公司",
+      "name": "三一重能股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1323706",
+      "name": "算法工程师（应届生）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_厦门瑞为信息技术有限公司",
+      "name": "厦门瑞为信息技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1323995",
+      "name": "中证股转科技有限公司2024年校园招聘职位",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中证股转科技有限公司",
+      "name": "中证股转科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1324280",
+      "name": "软件开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆欣乐美义齿有限公司",
+      "name": "重庆欣乐美义齿有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1325093",
+      "name": "智能制造工程实训中心现场工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川电子机械职业技术学院",
+      "name": "四川电子机械职业技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1325177",
+      "name": "高级科研工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广州赛宝认证中心服务有限公司",
+      "name": "广州赛宝认证中心服务有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1325639",
+      "name": "医疗器械研发工程师（软件、图像算法）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_南京普爱医疗设备股份有限公司",
+      "name": "南京普爱医疗设备股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1326689",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆同沃汽车科技有限公司",
+      "name": "重庆同沃汽车科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327014",
+      "name": "储备产品经理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆微标科技股份有限公司",
+      "name": "重庆微标科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327164",
+      "name": "研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川航天系统工程研究所",
+      "name": "四川航天系统工程研究所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327187",
+      "name": "嵌入式软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川六九一二通信技术股份有限公司",
+      "name": "四川六九一二通信技术股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327222",
+      "name": "应用软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_西安安森智能仪器股份有限公司",
+      "name": "西安安森智能仪器股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327248",
+      "name": "研究员/副研究员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国科学院重庆绿色智能技术研究院",
+      "name": "中国科学院重庆绿色智能技术研究院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327435",
+      "name": "嵌入式软件设计工程师(无锡）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_无锡威孚高科技集团股份有限公司",
+      "name": "无锡威孚高科技集团股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327641",
+      "name": "引领型人才储备",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_首钢京唐钢铁联合有限责任公司",
+      "name": "首钢京唐钢铁联合有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327654",
+      "name": "电学专利代理师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京柳沈（成都）律师事务所",
+      "name": "北京柳沈（成都）律师事务所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1327742",
+      "name": "2025年春招专利审查员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_国家知识产权局专利局专利审查协作河南中心",
+      "name": "国家知识产权局专利局专利审查协作河南中心",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1328049",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_国机智能科技有限公司",
+      "name": "国机智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1328257",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中机中联工程有限公司",
+      "name": "中机中联工程有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1328644",
+      "name": "系统研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_武汉市政工程设计研究院有限责任公司",
+      "name": "武汉市政工程设计研究院有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1328702",
+      "name": "研究员（科技研发岗）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_鞍钢集团北京研究院有限公司",
+      "name": "鞍钢集团北京研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1328705",
+      "name": "研究员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_鞍钢集团北京研究院有限公司",
+      "name": "鞍钢集团北京研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1329203",
+      "name": "行业研究",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都源流企业管理咨询服务有限公司",
+      "name": "成都源流企业管理咨询服务有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1329205",
+      "name": "通信类专业课程教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_云南现代职业技术学院",
+      "name": "云南现代职业技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1329243",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_天津水泥工业设计研究院有限公司",
+      "name": "天津水泥工业设计研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1329543",
+      "name": "软件工程师（整车电控）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都壹为新能源汽车有限公司",
+      "name": "成都壹为新能源汽车有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330044",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆锐明信息技术有限公司",
+      "name": "重庆锐明信息技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330093",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_苏州佳祺仕科技股份有限公司",
+      "name": "苏州佳祺仕科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330102",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_苏州佳祺仕科技股份有限公司",
+      "name": "苏州佳祺仕科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330269",
+      "name": "专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆青年职业技术学院",
+      "name": "重庆青年职业技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330360",
+      "name": "研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国船舶集团有限公司系统工程研究院",
+      "name": "中国船舶集团有限公司系统工程研究院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330710",
+      "name": "专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆智能工程职业学院",
+      "name": "重庆智能工程职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1332010",
+      "name": "信息工程学院专职教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_赣州职业技术学院",
+      "name": "赣州职业技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1332080",
+      "name": "场景大模型研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都星景智能科技有限公司",
+      "name": "成都星景智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1332754",
+      "name": "研发技术人员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_航天江南集团有限公司",
+      "name": "航天江南集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1332965",
+      "name": "Java后端工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_太极计算机股份有限公司",
+      "name": "太极计算机股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1332971",
+      "name": "博士研究员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_太极计算机股份有限公司",
+      "name": "太极计算机股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1334411",
+      "name": "算法工程师-机器学习",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_华夏飞滴科技有限公司",
+      "name": "华夏飞滴科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1334832",
+      "name": "技术与产品研发中心（科技创新部、知识产权办公室）-人工智能方向",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_云上贵州大数据产业发展有限公司",
+      "name": "云上贵州大数据产业发展有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1334834",
+      "name": "技术与产品研发中心（科技创新部、知识产权办公室）-软件开发方向",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_云上贵州大数据产业发展有限公司",
+      "name": "云上贵州大数据产业发展有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1334845",
+      "name": "技术与产品研发中心（科技创新部、知识产权办公室）-大数据开发方向",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_云上贵州大数据产业发展有限公司",
+      "name": "云上贵州大数据产业发展有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1334851",
+      "name": "云智事业部-网络安全方向",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_云上贵州大数据产业发展有限公司",
+      "name": "云上贵州大数据产业发展有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1334869",
+      "name": "教学科研岗1",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆财经职业学院",
+      "name": "重庆财经职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1335079",
+      "name": "软件开发岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_河南省豫北水利勘测设计院有限公司",
+      "name": "河南省豫北水利勘测设计院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1335333",
+      "name": "移动商务专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1335334",
+      "name": "学科骨干教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江金华第一中学",
+      "name": "浙江金华第一中学",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1335335",
+      "name": "移动商务专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1335346",
+      "name": "大数据技术专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1335999",
+      "name": "信息安全技术教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆澳意启航教育科技有限公司",
+      "name": "重庆澳意启航教育科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1336141",
+      "name": "具身智能工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京络捷斯特科技发展股份有限公司",
+      "name": "北京络捷斯特科技发展股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1336144",
+      "name": "图像算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京络捷斯特科技发展股份有限公司",
+      "name": "北京络捷斯特科技发展股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1336166",
+      "name": "上位机软件开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中船重工纵横科技有限公司",
+      "name": "中船重工纵横科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1336641",
+      "name": "信息科学与工程学院专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_沈阳理工大学",
+      "name": "沈阳理工大学",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1337931",
+      "name": "运筹优化算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_悠桦林信息科技（上海）有限公司",
+      "name": "悠桦林信息科技（上海）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1337939",
+      "name": "AI算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海久尺网络科技有限公司",
+      "name": "上海久尺网络科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1337940",
+      "name": "音视频算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海久尺网络科技有限公司",
+      "name": "上海久尺网络科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1338263",
+      "name": "Linux 内核程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_光立方（重庆）智能科技有限公司",
+      "name": "光立方（重庆）智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1338411",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆山外山血液净化技术股份有限公司",
+      "name": "重庆山外山血液净化技术股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1338413",
+      "name": "软件测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆山外山血液净化技术股份有限公司",
+      "name": "重庆山外山血液净化技术股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1339440",
+      "name": "经营管理员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_南宁建宁水务投资集团有限责任公司",
+      "name": "南宁建宁水务投资集团有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1339454",
+      "name": "教师岗7",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_山东政法学院",
+      "name": "山东政法学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1339883",
+      "name": "大模型算法/建模工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆优力臻伟实业有限公司",
+      "name": "重庆优力臻伟实业有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1340678",
+      "name": "数据管理与应用岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国石油集团共享运营有限公司成都中心",
+      "name": "中国石油集团共享运营有限公司成都中心",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1340925",
+      "name": "软（硬）件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_长沙矿山研究院有限责任公司",
+      "name": "长沙矿山研究院有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1341151",
+      "name": "信息中心技术员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川航天职业技术学院（四川航天高级技工学校）",
+      "name": "四川航天职业技术学院（四川航天高级技工学校）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1341981",
+      "name": "研发工程师（信息化类）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中船重工纵横科技有限公司",
+      "name": "中船重工纵横科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1341982",
+      "name": "技术销售工程师（智能制造类）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中船重工纵横科技有限公司",
+      "name": "中船重工纵横科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1341983",
+      "name": "技术销售工程师（信息化类）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中船重工纵横科技有限公司",
+      "name": "中船重工纵横科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1343600",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中船重工纵横科技有限公司",
+      "name": "中船重工纵横科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1345110",
+      "name": "计算机科学与技术专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆外语外事学院",
+      "name": "重庆外语外事学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1345111",
+      "name": "数据科学与大数据技术教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆外语外事学院",
+      "name": "重庆外语外事学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1345596",
+      "name": "储备见习工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆海康威视科技有限公司",
+      "name": "重庆海康威视科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1345789",
+      "name": "老师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国人民武装警察部队士官学校",
+      "name": "中国人民武装警察部队士官学校",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1347595",
+      "name": "绍兴市委党校专业技术人员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中共绍兴市委党校（绍兴市行政学院、绍兴市社会主义学院、中共绍兴市委讲师团）",
+      "name": "中共绍兴市委党校（绍兴市行政学院、绍兴市社会主义学院、中共绍兴市委讲师团）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348906",
+      "name": "前端工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348907",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348908",
+      "name": "Python工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348909",
+      "name": "Java工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348916",
+      "name": "产品经理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348919",
+      "name": "解决方案工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1348921",
+      "name": "售前工程师（成都地区）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京晟世天安科技有限公司",
+      "name": "北京晟世天安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1349397",
+      "name": "成都外国语学院宜宾校区招聘公告",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京千才汇信息技术有限公司",
+      "name": "北京千才汇信息技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1350438",
+      "name": "博士后研究人员（数智化方向）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆渝富控股集团有限公司",
+      "name": "重庆渝富控股集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1350652",
+      "name": "软件开发工程师（java）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江腾珑网安科技有限公司",
+      "name": "浙江腾珑网安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1350653",
+      "name": "WEB前端工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江腾珑网安科技有限公司",
+      "name": "浙江腾珑网安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1350654",
+      "name": "嵌入式软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江腾珑网安科技有限公司",
+      "name": "浙江腾珑网安科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1350684",
+      "name": "算法研究员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_安徽中科光电色选机械有限公司",
+      "name": "安徽中科光电色选机械有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1351038",
+      "name": "电机控制软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广东高标智能科技股份有限公司",
+      "name": "广东高标智能科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1351126",
+      "name": "Java 软件工程师（桂林、成都）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_桂林长海发展有限责任公司",
+      "name": "桂林长海发展有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1351434",
+      "name": "软件设计开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_西安精密机械研究所昆明分部",
+      "name": "西安精密机械研究所昆明分部",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1351485",
+      "name": "嵌入式软件工程师（2026届校招）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_珠海优特电力科技股份有限公司",
+      "name": "珠海优特电力科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1351579",
+      "name": "2026届IT校招-算法工程师（智慧物流）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中通快递股份有限公司",
+      "name": "中通快递股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352115",
+      "name": "算法工程师-珠海/武汉/广州",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_珠海金山办公软件有限公司",
+      "name": "珠海金山办公软件有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352348",
+      "name": "嵌入式研究员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_安徽中科光电色选机械有限公司",
+      "name": "安徽中科光电色选机械有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352393",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳捷牛科技有限公司",
+      "name": "深圳捷牛科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352602",
+      "name": "中国电科29所2026届秋季校园招聘",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_西南电子设备研究所（中国电子科技集团公司第二十九研究所）",
+      "name": "西南电子设备研究所（中国电子科技集团公司第二十九研究所）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352732",
+      "name": "软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都劳恩普斯科技有限公司",
+      "name": "成都劳恩普斯科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352735",
+      "name": "AI应用工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都劳恩普斯科技有限公司",
+      "name": "成都劳恩普斯科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352961",
+      "name": "影像效果产品专员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353151",
+      "name": "芯片FIP设计工程师-stdcell",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳中安辰鸿技术有限公司",
+      "name": "深圳中安辰鸿技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353173",
+      "name": "软件测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353187",
+      "name": "测试开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353212",
+      "name": "软件测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353222",
+      "name": "系统开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353244",
+      "name": "系统开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353252",
+      "name": "系统开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353254",
+      "name": "应用开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353257",
+      "name": "BSP开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353259",
+      "name": "通信软件开发工程师(C方向）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353267",
+      "name": "BSP开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353269",
+      "name": "通信软件开发工程师(C方向）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353272",
+      "name": "通信软件开发工程师（Java方向）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353284",
+      "name": "技术规划运营",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353285",
+      "name": "AI for Science 研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_国仪量子（合肥）技术有限公司",
+      "name": "国仪量子（合肥）技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353294",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_国仪量子（合肥）技术有限公司",
+      "name": "国仪量子（合肥）技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353315",
+      "name": "系统开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353318",
+      "name": "工具开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353343",
+      "name": "系统开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353344",
+      "name": "工具开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353345",
+      "name": "系统开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353349",
+      "name": "应用开发工程师（系统应用）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353378",
+      "name": "助理软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353379",
+      "name": "助理软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆传音通讯技术有限公司",
+      "name": "重庆传音通讯技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353501",
+      "name": "【博士校招】光学工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广州德擎光学科技有限公司",
+      "name": "广州德擎光学科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353576",
+      "name": "设计工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_内蒙古北方重型汽车股份有限公司",
+      "name": "内蒙古北方重型汽车股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353686",
+      "name": "计算机及数字化类",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_华陆工程科技有限责任公司",
+      "name": "华陆工程科技有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353848",
+      "name": "总体论证",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "name": "南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353852",
+      "name": "软件设计",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "name": "南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353854",
+      "name": "算法设计",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "name": "南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353856",
+      "name": "软件开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "name": "南京电子工程研究所（中国电子科技集团公司第二十八研究所）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353956",
+      "name": "26届-规划算法工程师（行车/泊车）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳佑驾创新科技股份有限公司",
+      "name": "深圳佑驾创新科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1353983",
+      "name": "国际注册工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆山外山血液净化技术股份有限公司",
+      "name": "重庆山外山血液净化技术股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354114",
+      "name": "智能建造岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广西路建工程集团有限公司",
+      "name": "广西路建工程集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354256",
+      "name": "研发-软件开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_坤泰车辆系统（常州）股份有限公司",
+      "name": "坤泰车辆系统（常州）股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354328",
+      "name": "Java开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江国际大宗商品交易中心有限公司",
+      "name": "浙江国际大宗商品交易中心有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354387",
+      "name": "软件研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_郑州煤矿机械集团有限责任公司",
+      "name": "郑州煤矿机械集团有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354672",
+      "name": "算法专家",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北太振寰（重庆）科技有限公司",
+      "name": "北太振寰（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354700",
+      "name": "电子信息教研室专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川电子机械职业技术学院",
+      "name": "四川电子机械职业技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354703",
+      "name": "计算机教研室专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川电子机械职业技术学院",
+      "name": "四川电子机械职业技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1354853",
+      "name": "高级软件测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国船舶集团有限公司第七二二研究所",
+      "name": "中国船舶集团有限公司第七二二研究所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355158",
+      "name": "嵌入式软件处理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_清源智翔（重庆）科技有限公司",
+      "name": "清源智翔（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355160",
+      "name": "无人机跟踪算法",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_清源智翔（重庆）科技有限公司",
+      "name": "清源智翔（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355164",
+      "name": "低空空域软件开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_清源智翔（重庆）科技有限公司",
+      "name": "清源智翔（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355176",
+      "name": "专利撰写",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_清源智翔（重庆）科技有限公司",
+      "name": "清源智翔（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355251",
+      "name": "软件开发工程师/硬件设计工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_贵州航天风华精密设备有限公司",
+      "name": "贵州航天风华精密设备有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355663",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海穹窿科技有限公司",
+      "name": "上海穹窿科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355664",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海穹窿科技有限公司",
+      "name": "上海穹窿科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355776",
+      "name": "信息技术岗位",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_国元证券股份有限公司",
+      "name": "国元证券股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355812",
+      "name": "数字IC设计工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_黑芝麻智能科技有限公司",
+      "name": "黑芝麻智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355816",
+      "name": "辅助驾驶应用工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_黑芝麻智能科技有限公司",
+      "name": "黑芝麻智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355817",
+      "name": "AI编译器工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_黑芝麻智能科技有限公司",
+      "name": "黑芝麻智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1355820",
+      "name": "AI系统软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_黑芝麻智能科技有限公司",
+      "name": "黑芝麻智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356059",
+      "name": "AI/IT工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_万华化学集团股份有限公司",
+      "name": "万华化学集团股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356065",
+      "name": "软件研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中海辉固地学服务（深圳）有限公司",
+      "name": "中海辉固地学服务（深圳）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356270",
+      "name": "中冶赛迪信息技术（重庆）有限公司",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中冶赛迪信息技术（重庆）有限公司",
+      "name": "中冶赛迪信息技术（重庆）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356504",
+      "name": "总行金融科技类（佛山）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广发银行股份有限公司",
+      "name": "广发银行股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356572",
+      "name": "java前端开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_佛山市云米电器科技有限公司",
+      "name": "佛山市云米电器科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356610",
+      "name": "AI应用工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中信出版集团股份有限公司",
+      "name": "中信出版集团股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356633",
+      "name": "机器学习工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中信出版集团股份有限公司",
+      "name": "中信出版集团股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356634",
+      "name": "AI数据工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中信出版集团股份有限公司",
+      "name": "中信出版集团股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356800",
+      "name": "AI大模型应用开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆三友机器制造有限责任公司",
+      "name": "重庆三友机器制造有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1356810",
+      "name": "汽车底盘：系统化 · 数智化 · 全球化——与三友共赴智能出行新纪元",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆三友机器制造有限责任公司",
+      "name": "重庆三友机器制造有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1357918",
+      "name": "算法工程师-珠海/武汉/广州",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_武汉金山办公软件有限公司",
+      "name": "武汉金山办公软件有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1357920",
+      "name": "射频工程师 软件工程师 机械工程师 经营销售岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中船重工安谱（湖北）仪器有限公司",
+      "name": "中船重工安谱（湖北）仪器有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1357921",
+      "name": "C++开发工程师-珠海/武汉/广州",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_武汉金山办公软件有限公司",
+      "name": "武汉金山办公软件有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1357925",
+      "name": "服务端开发工程师-珠海/武汉/广州",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_武汉金山办公软件有限公司",
+      "name": "武汉金山办公软件有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358003",
+      "name": "总行管培生（FinTech方向）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_厦门银行股份有限公司",
+      "name": "厦门银行股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358309",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中电科翌智航（重庆）科技有限公司",
+      "name": "中电科翌智航（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358312",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中电科翌智航（重庆）科技有限公司",
+      "name": "中电科翌智航（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358315",
+      "name": "博士后",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中电科翌智航（重庆）科技有限公司",
+      "name": "中电科翌智航（重庆）科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358350",
+      "name": "产业数字化发展研究员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆信息通信研究院",
+      "name": "重庆信息通信研究院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358599",
+      "name": "嵌入式工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_迈克生物股份有限公司",
+      "name": "迈克生物股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1358946",
+      "name": "AI软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_爱芯元智半导体股份有限公司",
+      "name": "爱芯元智半导体股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359024",
+      "name": "精英研发算法方向--武汉/珠海",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_武汉金山办公软件有限公司",
+      "name": "武汉金山办公软件有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359073",
+      "name": "嵌入式软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_爱芯元智半导体股份有限公司",
+      "name": "爱芯元智半导体股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359075",
+      "name": "芯片验证工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_爱芯元智半导体股份有限公司",
+      "name": "爱芯元智半导体股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359076",
+      "name": "ISP驱动开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_爱芯元智半导体股份有限公司",
+      "name": "爱芯元智半导体股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359129",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广州影子科技有限公司",
+      "name": "广州影子科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359173",
+      "name": "引领型人才储备",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_首钢京唐钢铁联合有限责任公司",
+      "name": "首钢京唐钢铁联合有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359309",
+      "name": "项目控制岗 （含进度控制、材料控制、文档控制）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中石化上海工程有限公司",
+      "name": "中石化上海工程有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359696",
+      "name": "嵌入式开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆同沃汽车科技有限公司",
+      "name": "重庆同沃汽车科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359699",
+      "name": "系统与仿真工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆同沃汽车科技有限公司",
+      "name": "重庆同沃汽车科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359700",
+      "name": "标定工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆同沃汽车科技有限公司",
+      "name": "重庆同沃汽车科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359718",
+      "name": "移动端软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海傅利叶智能科技股份有限公司",
+      "name": "上海傅利叶智能科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359742",
+      "name": "机器人算法工程师（多模态）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海傅利叶智能科技股份有限公司",
+      "name": "上海傅利叶智能科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360143",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_永辉超市股份有限公司",
+      "name": "永辉超市股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360492",
+      "name": "2026届岗位需求",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中机中联工程有限公司",
+      "name": "中机中联工程有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360526",
+      "name": "专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆智能工程职业学院",
+      "name": "重庆智能工程职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360541",
+      "name": "电子信息与计算机工程系教师招聘",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都理工大学工程技术学院",
+      "name": "成都理工大学工程技术学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360716",
+      "name": "产品开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆青山工业有限责任公司",
+      "name": "重庆青山工业有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360799",
+      "name": "嵌入式软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州和利时自动化有限公司西安分公司",
+      "name": "杭州和利时自动化有限公司西安分公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1361037",
+      "name": "数字孪生工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆华地资环科技有限公司",
+      "name": "重庆华地资环科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1361135",
+      "name": "科学研究/工程技术",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国铁道科学研究院集团有限公司铁道建筑研究所",
+      "name": "中国铁道科学研究院集团有限公司铁道建筑研究所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1361540",
+      "name": "人工智能岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中石化经纬有限公司",
+      "name": "中石化经纬有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1361988",
+      "name": "科研开发岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆红宇精密工业集团有限公司",
+      "name": "重庆红宇精密工业集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362301",
+      "name": "人力资源执行专员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆星英会互联网科技集团有限责任公司",
+      "name": "重庆星英会互联网科技集团有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362350",
+      "name": "26届管培生（351）智造信息方向",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆方正高密电子有限公司",
+      "name": "重庆方正高密电子有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362357",
+      "name": "机器视觉工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳市腾盛精密装备股份有限公司",
+      "name": "深圳市腾盛精密装备股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362486",
+      "name": "郑州商品交易所集团2025年秋季招聘及博士后工作站招收启事",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_郑州商品交易所",
+      "name": "郑州商品交易所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362506",
+      "name": "不限",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中共石家庄市新华区委组织部",
+      "name": "中共石家庄市新华区委组织部",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362542",
+      "name": "技术研发岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_宁夏交通建设股份有限公司",
+      "name": "宁夏交通建设股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1364826",
+      "name": "电力及工业自动化高级工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_广州三川控制系统工程设备有限公司",
+      "name": "广州三川控制系统工程设备有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1364837",
+      "name": "桥梁工程师、隧道工程师、暖通工程师、电气工程师、软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中铁桥隧技术有限公司",
+      "name": "中铁桥隧技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1365013",
+      "name": "AI应用管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_深圳市熙锐网络科技有限公司",
+      "name": "深圳市熙锐网络科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1365105",
+      "name": "方案实习生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆沐晨人工智能科技有限公司",
+      "name": "重庆沐晨人工智能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1366668",
+      "name": "经济与管理学院-专任教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_汉江师范学院",
+      "name": "汉江师范学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1367606",
+      "name": "信息化项目管理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市中小企业发展服务中心",
+      "name": "重庆市中小企业发展服务中心",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1367710",
+      "name": "软件开发工程师助理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京华清远见科技发展有限公司重庆分公司",
+      "name": "北京华清远见科技发展有限公司重庆分公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1367896",
+      "name": "辅导员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆交通职业学院",
+      "name": "重庆交通职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1368440",
+      "name": "数据治理工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆中电自能科技有限公司",
+      "name": "重庆中电自能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1368441",
+      "name": "研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆中电自能科技有限公司",
+      "name": "重庆中电自能科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1369443",
+      "name": "C++开发工程师（3D渲染）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1369463",
+      "name": "几何图形算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆诺源工业软件科技有限公司",
+      "name": "重庆诺源工业软件科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1369891",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆拾玖佳企业管理有限公司",
+      "name": "重庆拾玖佳企业管理有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1370287",
+      "name": "计算机教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_枝江市职业教育中心",
+      "name": "枝江市职业教育中心",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1374931",
+      "name": "算法类工程师/C++开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_先临三维科技股份有限公司",
+      "name": "先临三维科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1375972",
+      "name": "电子研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都泓睿科技有限责任公司",
+      "name": "成都泓睿科技有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1376480",
+      "name": "软件研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都泓睿科技有限责任公司",
+      "name": "成都泓睿科技有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1376509",
+      "name": "网络工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_彩虹无人机科技有限公司",
+      "name": "彩虹无人机科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1376675",
+      "name": "中国航天科工集团激光总体设计部2026年人才招聘简章",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_湖北航天飞行器研究所",
+      "name": "湖北航天飞行器研究所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1377470",
+      "name": "工艺技术员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆嘉陵特种装备有限公司",
+      "name": "重庆嘉陵特种装备有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1377497",
+      "name": "管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江时空智子大数据有限公司",
+      "name": "浙江时空智子大数据有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1377514",
+      "name": "软件开发研发岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市渝发水利科学研究院有限公司",
+      "name": "重庆市渝发水利科学研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1377807",
+      "name": "技术研发岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市渝发水利科学研究院有限公司",
+      "name": "重庆市渝发水利科学研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1377812",
+      "name": "技术研发岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市渝发水利科学研究院有限公司",
+      "name": "重庆市渝发水利科学研究院有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1378307",
+      "name": "图像算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_宁波频泰光电科技有限公司",
+      "name": "宁波频泰光电科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45222748",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45210987",
+      "name": "工程制图学徒",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45177477",
+      "name": "储备（测试工程师）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45155910",
+      "name": "项目经理/主管",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45153585",
+      "name": "Ai项目经理（重庆 开州）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44773070",
+      "name": "数据库工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45090959",
+      "name": "前端开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_19138521",
+      "name": "产品项目工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45077009",
+      "name": "系统运维岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45069982",
+      "name": "物联网技术员（急聘）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45056782",
+      "name": "初级Java工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45046125",
+      "name": "AIGC管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45044537",
+      "name": "助理测试工程师（具体面议）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45038327",
+      "name": "智能办公解决方案工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45038304",
+      "name": "Python开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44916138",
+      "name": "网络部经理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45011146",
+      "name": "软件售后技术支持",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45000766",
+      "name": "C++实习生（接受25届毕业生）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_3680272",
+      "name": "嵌入式MCU软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_17740387",
+      "name": "c# 软件开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44977178",
+      "name": "java软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44971524",
+      "name": "验证工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44971191",
+      "name": "嵌入式软件开发",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44971186",
+      "name": "软件测试",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44955290",
+      "name": "软件测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44912126",
+      "name": "软件质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44915926",
+      "name": "小程序开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44431826",
+      "name": "测试技术员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44910784",
+      "name": "软件测试",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44905515",
+      "name": "初级测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44901876",
+      "name": "网络管理员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_15499279",
+      "name": "储备大学生（系统软件开发类）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44681601",
+      "name": "前端工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44834382",
+      "name": ".NET C#/php程序员（全栈）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44825512",
+      "name": "医院信息科工作人员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_43047225",
+      "name": "初级软件测试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_33710974",
+      "name": "急聘信息化专员（开发）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44624228",
+      "name": "前端程序员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "软件工程",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "软件系统开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "嵌入式系统开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "数据分析与处理能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "算法开发与优化能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e6",
+      "name": "IT运维与安全管理能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e7",
+      "name": "软件测试与调试能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e8",
+      "name": "人机交互软件开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e9",
+      "name": "C语言",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "Java",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e11",
+      "name": "Python",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e12",
+      "name": "MATLAB/Simulink",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e13",
+      "name": "嵌入式系统编程",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e14",
+      "name": "数据结构与算法",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e15",
+      "name": "软件工程",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e16",
+      "name": "数据库系统",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e17",
+      "name": "操作系统",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e18",
+      "name": "计算机网络",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e19",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e20",
+      "name": "沟通能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e21",
+      "name": "抗压能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e22",
+      "name": "持续学习",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e23",
+      "name": "软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e24",
+      "name": "IT运维岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e25",
+      "name": "数据分析处理工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e26",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e27",
+      "name": "软件设计师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e28",
+      "name": "应用层开发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e29",
+      "name": "软件主任工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e30",
+      "name": "售前技术工程师",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1234205"
+    },
+    {
+      "head": "job_1234205",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆望变电气（集团）股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1239305"
+    },
+    {
+      "head": "job_1239305",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳古瑞瓦特新能源有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1242556"
+    },
+    {
+      "head": "job_1242556",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳市赢合科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1246056"
+    },
+    {
+      "head": "job_1246056",
+      "relation": "OFFERED_BY",
+      "tail": "company_中兵智能创新研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1246076"
+    },
+    {
+      "head": "job_1246076",
+      "relation": "OFFERED_BY",
+      "tail": "company_中兵智能创新研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1247370"
+    },
+    {
+      "head": "job_1247370",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆华伟工业（集团）有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1248679"
+    },
+    {
+      "head": "job_1248679",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川航天川南火工技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1248863"
+    },
+    {
+      "head": "job_1248863",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆闪亮科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1250328"
+    },
+    {
+      "head": "job_1250328",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆同沃汽车科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1250904"
+    },
+    {
+      "head": "job_1250904",
+      "relation": "OFFERED_BY",
+      "tail": "company_福建人民出版社有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1255393"
+    },
+    {
+      "head": "job_1255393",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆智能工程职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1258727"
+    },
+    {
+      "head": "job_1258727",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1258750"
+    },
+    {
+      "head": "job_1258750",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1258754"
+    },
+    {
+      "head": "job_1258754",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1265363"
+    },
+    {
+      "head": "job_1265363",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳古瑞瓦特新能源有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1268333"
+    },
+    {
+      "head": "job_1268333",
+      "relation": "OFFERED_BY",
+      "tail": "company_昆明城市学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1269402"
+    },
+    {
+      "head": "job_1269402",
+      "relation": "OFFERED_BY",
+      "tail": "company_北太振寰（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1269916"
+    },
+    {
+      "head": "job_1269916",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆青山工业有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1270480"
+    },
+    {
+      "head": "job_1270480",
+      "relation": "OFFERED_BY",
+      "tail": "company_人本集团有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1271693"
+    },
+    {
+      "head": "job_1271693",
+      "relation": "OFFERED_BY",
+      "tail": "company_广州安凯微电子股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1272583"
+    },
+    {
+      "head": "job_1272583",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1277512"
+    },
+    {
+      "head": "job_1277512",
+      "relation": "OFFERED_BY",
+      "tail": "company_广州影子科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1290476"
+    },
+    {
+      "head": "job_1290476",
+      "relation": "OFFERED_BY",
+      "tail": "company_源亦成（重庆）大数据科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1295913"
+    },
+    {
+      "head": "job_1295913",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江菜鸟供应链管理有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1296362"
+    },
+    {
+      "head": "job_1296362",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆能源职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1307429"
+    },
+    {
+      "head": "job_1307429",
+      "relation": "OFFERED_BY",
+      "tail": "company_中冶南方（武汉）热工有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1308015"
+    },
+    {
+      "head": "job_1308015",
+      "relation": "OFFERED_BY",
+      "tail": "company_国防科技大学试验训练基地"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1308439"
+    },
+    {
+      "head": "job_1308439",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州迪普科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1308744"
+    },
+    {
+      "head": "job_1308744",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州长川科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1311788"
+    },
+    {
+      "head": "job_1311788",
+      "relation": "OFFERED_BY",
+      "tail": "company_飞依诺科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1311821"
+    },
+    {
+      "head": "job_1311821",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆移通学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1317257"
+    },
+    {
+      "head": "job_1317257",
+      "relation": "OFFERED_BY",
+      "tail": "company_广发银行股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1318661"
+    },
+    {
+      "head": "job_1318661",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆现代制造职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322445"
+    },
+    {
+      "head": "job_1322445",
+      "relation": "OFFERED_BY",
+      "tail": "company_桂林长海发展有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322446"
+    },
+    {
+      "head": "job_1322446",
+      "relation": "OFFERED_BY",
+      "tail": "company_桂林长海发展有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322731"
+    },
+    {
+      "head": "job_1322731",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322734"
+    },
+    {
+      "head": "job_1322734",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322737"
+    },
+    {
+      "head": "job_1322737",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322745"
+    },
+    {
+      "head": "job_1322745",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322746"
+    },
+    {
+      "head": "job_1322746",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322747"
+    },
+    {
+      "head": "job_1322747",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322755"
+    },
+    {
+      "head": "job_1322755",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1322962"
+    },
+    {
+      "head": "job_1322962",
+      "relation": "OFFERED_BY",
+      "tail": "company_三一重能股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1323706"
+    },
+    {
+      "head": "job_1323706",
+      "relation": "OFFERED_BY",
+      "tail": "company_厦门瑞为信息技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1323995"
+    },
+    {
+      "head": "job_1323995",
+      "relation": "OFFERED_BY",
+      "tail": "company_中证股转科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1324280"
+    },
+    {
+      "head": "job_1324280",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆欣乐美义齿有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1325093"
+    },
+    {
+      "head": "job_1325093",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川电子机械职业技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1325177"
+    },
+    {
+      "head": "job_1325177",
+      "relation": "OFFERED_BY",
+      "tail": "company_广州赛宝认证中心服务有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1325639"
+    },
+    {
+      "head": "job_1325639",
+      "relation": "OFFERED_BY",
+      "tail": "company_南京普爱医疗设备股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1326689"
+    },
+    {
+      "head": "job_1326689",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆同沃汽车科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327014"
+    },
+    {
+      "head": "job_1327014",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆微标科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327164"
+    },
+    {
+      "head": "job_1327164",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川航天系统工程研究所"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327187"
+    },
+    {
+      "head": "job_1327187",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川六九一二通信技术股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327222"
+    },
+    {
+      "head": "job_1327222",
+      "relation": "OFFERED_BY",
+      "tail": "company_西安安森智能仪器股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327248"
+    },
+    {
+      "head": "job_1327248",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国科学院重庆绿色智能技术研究院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327435"
+    },
+    {
+      "head": "job_1327435",
+      "relation": "OFFERED_BY",
+      "tail": "company_无锡威孚高科技集团股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327641"
+    },
+    {
+      "head": "job_1327641",
+      "relation": "OFFERED_BY",
+      "tail": "company_首钢京唐钢铁联合有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327654"
+    },
+    {
+      "head": "job_1327654",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京柳沈（成都）律师事务所"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1327742"
+    },
+    {
+      "head": "job_1327742",
+      "relation": "OFFERED_BY",
+      "tail": "company_国家知识产权局专利局专利审查协作河南中心"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1328049"
+    },
+    {
+      "head": "job_1328049",
+      "relation": "OFFERED_BY",
+      "tail": "company_国机智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1328257"
+    },
+    {
+      "head": "job_1328257",
+      "relation": "OFFERED_BY",
+      "tail": "company_中机中联工程有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1328644"
+    },
+    {
+      "head": "job_1328644",
+      "relation": "OFFERED_BY",
+      "tail": "company_武汉市政工程设计研究院有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1328702"
+    },
+    {
+      "head": "job_1328702",
+      "relation": "OFFERED_BY",
+      "tail": "company_鞍钢集团北京研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1328705"
+    },
+    {
+      "head": "job_1328705",
+      "relation": "OFFERED_BY",
+      "tail": "company_鞍钢集团北京研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1329203"
+    },
+    {
+      "head": "job_1329203",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都源流企业管理咨询服务有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1329205"
+    },
+    {
+      "head": "job_1329205",
+      "relation": "OFFERED_BY",
+      "tail": "company_云南现代职业技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1329243"
+    },
+    {
+      "head": "job_1329243",
+      "relation": "OFFERED_BY",
+      "tail": "company_天津水泥工业设计研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1329543"
+    },
+    {
+      "head": "job_1329543",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都壹为新能源汽车有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330044"
+    },
+    {
+      "head": "job_1330044",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆锐明信息技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330093"
+    },
+    {
+      "head": "job_1330093",
+      "relation": "OFFERED_BY",
+      "tail": "company_苏州佳祺仕科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330102"
+    },
+    {
+      "head": "job_1330102",
+      "relation": "OFFERED_BY",
+      "tail": "company_苏州佳祺仕科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330269"
+    },
+    {
+      "head": "job_1330269",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆青年职业技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330360"
+    },
+    {
+      "head": "job_1330360",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国船舶集团有限公司系统工程研究院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330710"
+    },
+    {
+      "head": "job_1330710",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆智能工程职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1332010"
+    },
+    {
+      "head": "job_1332010",
+      "relation": "OFFERED_BY",
+      "tail": "company_赣州职业技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1332080"
+    },
+    {
+      "head": "job_1332080",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都星景智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1332754"
+    },
+    {
+      "head": "job_1332754",
+      "relation": "OFFERED_BY",
+      "tail": "company_航天江南集团有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1332965"
+    },
+    {
+      "head": "job_1332965",
+      "relation": "OFFERED_BY",
+      "tail": "company_太极计算机股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1332971"
+    },
+    {
+      "head": "job_1332971",
+      "relation": "OFFERED_BY",
+      "tail": "company_太极计算机股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1334411"
+    },
+    {
+      "head": "job_1334411",
+      "relation": "OFFERED_BY",
+      "tail": "company_华夏飞滴科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1334832"
+    },
+    {
+      "head": "job_1334832",
+      "relation": "OFFERED_BY",
+      "tail": "company_云上贵州大数据产业发展有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1334834"
+    },
+    {
+      "head": "job_1334834",
+      "relation": "OFFERED_BY",
+      "tail": "company_云上贵州大数据产业发展有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1334845"
+    },
+    {
+      "head": "job_1334845",
+      "relation": "OFFERED_BY",
+      "tail": "company_云上贵州大数据产业发展有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1334851"
+    },
+    {
+      "head": "job_1334851",
+      "relation": "OFFERED_BY",
+      "tail": "company_云上贵州大数据产业发展有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1334869"
+    },
+    {
+      "head": "job_1334869",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆财经职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1335079"
+    },
+    {
+      "head": "job_1335079",
+      "relation": "OFFERED_BY",
+      "tail": "company_河南省豫北水利勘测设计院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1335333"
+    },
+    {
+      "head": "job_1335333",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1335334"
+    },
+    {
+      "head": "job_1335334",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江金华第一中学"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1335335"
+    },
+    {
+      "head": "job_1335335",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1335346"
+    },
+    {
+      "head": "job_1335346",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1335999"
+    },
+    {
+      "head": "job_1335999",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆澳意启航教育科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1336141"
+    },
+    {
+      "head": "job_1336141",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京络捷斯特科技发展股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1336144"
+    },
+    {
+      "head": "job_1336144",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京络捷斯特科技发展股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1336166"
+    },
+    {
+      "head": "job_1336166",
+      "relation": "OFFERED_BY",
+      "tail": "company_中船重工纵横科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1336641"
+    },
+    {
+      "head": "job_1336641",
+      "relation": "OFFERED_BY",
+      "tail": "company_沈阳理工大学"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1337931"
+    },
+    {
+      "head": "job_1337931",
+      "relation": "OFFERED_BY",
+      "tail": "company_悠桦林信息科技（上海）有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1337939"
+    },
+    {
+      "head": "job_1337939",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海久尺网络科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1337940"
+    },
+    {
+      "head": "job_1337940",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海久尺网络科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1338263"
+    },
+    {
+      "head": "job_1338263",
+      "relation": "OFFERED_BY",
+      "tail": "company_光立方（重庆）智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1338411"
+    },
+    {
+      "head": "job_1338411",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆山外山血液净化技术股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1338413"
+    },
+    {
+      "head": "job_1338413",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆山外山血液净化技术股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1339440"
+    },
+    {
+      "head": "job_1339440",
+      "relation": "OFFERED_BY",
+      "tail": "company_南宁建宁水务投资集团有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1339454"
+    },
+    {
+      "head": "job_1339454",
+      "relation": "OFFERED_BY",
+      "tail": "company_山东政法学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1339883"
+    },
+    {
+      "head": "job_1339883",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆优力臻伟实业有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1340678"
+    },
+    {
+      "head": "job_1340678",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国石油集团共享运营有限公司成都中心"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1340925"
+    },
+    {
+      "head": "job_1340925",
+      "relation": "OFFERED_BY",
+      "tail": "company_长沙矿山研究院有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1341151"
+    },
+    {
+      "head": "job_1341151",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川航天职业技术学院（四川航天高级技工学校）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1341981"
+    },
+    {
+      "head": "job_1341981",
+      "relation": "OFFERED_BY",
+      "tail": "company_中船重工纵横科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1341982"
+    },
+    {
+      "head": "job_1341982",
+      "relation": "OFFERED_BY",
+      "tail": "company_中船重工纵横科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1341983"
+    },
+    {
+      "head": "job_1341983",
+      "relation": "OFFERED_BY",
+      "tail": "company_中船重工纵横科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1343600"
+    },
+    {
+      "head": "job_1343600",
+      "relation": "OFFERED_BY",
+      "tail": "company_中船重工纵横科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1345110"
+    },
+    {
+      "head": "job_1345110",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆外语外事学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1345111"
+    },
+    {
+      "head": "job_1345111",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆外语外事学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1345596"
+    },
+    {
+      "head": "job_1345596",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆海康威视科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1345789"
+    },
+    {
+      "head": "job_1345789",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国人民武装警察部队士官学校"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1347595"
+    },
+    {
+      "head": "job_1347595",
+      "relation": "OFFERED_BY",
+      "tail": "company_中共绍兴市委党校（绍兴市行政学院、绍兴市社会主义学院、中共绍兴市委讲师团）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348906"
+    },
+    {
+      "head": "job_1348906",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348907"
+    },
+    {
+      "head": "job_1348907",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348908"
+    },
+    {
+      "head": "job_1348908",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348909"
+    },
+    {
+      "head": "job_1348909",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348916"
+    },
+    {
+      "head": "job_1348916",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348919"
+    },
+    {
+      "head": "job_1348919",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1348921"
+    },
+    {
+      "head": "job_1348921",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京晟世天安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1349397"
+    },
+    {
+      "head": "job_1349397",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京千才汇信息技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1350438"
+    },
+    {
+      "head": "job_1350438",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆渝富控股集团有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1350652"
+    },
+    {
+      "head": "job_1350652",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江腾珑网安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1350653"
+    },
+    {
+      "head": "job_1350653",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江腾珑网安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1350654"
+    },
+    {
+      "head": "job_1350654",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江腾珑网安科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1350684"
+    },
+    {
+      "head": "job_1350684",
+      "relation": "OFFERED_BY",
+      "tail": "company_安徽中科光电色选机械有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1351038"
+    },
+    {
+      "head": "job_1351038",
+      "relation": "OFFERED_BY",
+      "tail": "company_广东高标智能科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1351126"
+    },
+    {
+      "head": "job_1351126",
+      "relation": "OFFERED_BY",
+      "tail": "company_桂林长海发展有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1351434"
+    },
+    {
+      "head": "job_1351434",
+      "relation": "OFFERED_BY",
+      "tail": "company_西安精密机械研究所昆明分部"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1351485"
+    },
+    {
+      "head": "job_1351485",
+      "relation": "OFFERED_BY",
+      "tail": "company_珠海优特电力科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1351579"
+    },
+    {
+      "head": "job_1351579",
+      "relation": "OFFERED_BY",
+      "tail": "company_中通快递股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352115"
+    },
+    {
+      "head": "job_1352115",
+      "relation": "OFFERED_BY",
+      "tail": "company_珠海金山办公软件有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352348"
+    },
+    {
+      "head": "job_1352348",
+      "relation": "OFFERED_BY",
+      "tail": "company_安徽中科光电色选机械有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352393"
+    },
+    {
+      "head": "job_1352393",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳捷牛科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352602"
+    },
+    {
+      "head": "job_1352602",
+      "relation": "OFFERED_BY",
+      "tail": "company_西南电子设备研究所（中国电子科技集团公司第二十九研究所）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352732"
+    },
+    {
+      "head": "job_1352732",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都劳恩普斯科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352735"
+    },
+    {
+      "head": "job_1352735",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都劳恩普斯科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352961"
+    },
+    {
+      "head": "job_1352961",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353151"
+    },
+    {
+      "head": "job_1353151",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳中安辰鸿技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353173"
+    },
+    {
+      "head": "job_1353173",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353187"
+    },
+    {
+      "head": "job_1353187",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353212"
+    },
+    {
+      "head": "job_1353212",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353222"
+    },
+    {
+      "head": "job_1353222",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353244"
+    },
+    {
+      "head": "job_1353244",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353252"
+    },
+    {
+      "head": "job_1353252",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353254"
+    },
+    {
+      "head": "job_1353254",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353257"
+    },
+    {
+      "head": "job_1353257",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353259"
+    },
+    {
+      "head": "job_1353259",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353267"
+    },
+    {
+      "head": "job_1353267",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353269"
+    },
+    {
+      "head": "job_1353269",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353272"
+    },
+    {
+      "head": "job_1353272",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353284"
+    },
+    {
+      "head": "job_1353284",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353285"
+    },
+    {
+      "head": "job_1353285",
+      "relation": "OFFERED_BY",
+      "tail": "company_国仪量子（合肥）技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353294"
+    },
+    {
+      "head": "job_1353294",
+      "relation": "OFFERED_BY",
+      "tail": "company_国仪量子（合肥）技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353315"
+    },
+    {
+      "head": "job_1353315",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353318"
+    },
+    {
+      "head": "job_1353318",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353343"
+    },
+    {
+      "head": "job_1353343",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353344"
+    },
+    {
+      "head": "job_1353344",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353345"
+    },
+    {
+      "head": "job_1353345",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353349"
+    },
+    {
+      "head": "job_1353349",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353378"
+    },
+    {
+      "head": "job_1353378",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353379"
+    },
+    {
+      "head": "job_1353379",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆传音通讯技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353501"
+    },
+    {
+      "head": "job_1353501",
+      "relation": "OFFERED_BY",
+      "tail": "company_广州德擎光学科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353576"
+    },
+    {
+      "head": "job_1353576",
+      "relation": "OFFERED_BY",
+      "tail": "company_内蒙古北方重型汽车股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353686"
+    },
+    {
+      "head": "job_1353686",
+      "relation": "OFFERED_BY",
+      "tail": "company_华陆工程科技有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353848"
+    },
+    {
+      "head": "job_1353848",
+      "relation": "OFFERED_BY",
+      "tail": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353852"
+    },
+    {
+      "head": "job_1353852",
+      "relation": "OFFERED_BY",
+      "tail": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353854"
+    },
+    {
+      "head": "job_1353854",
+      "relation": "OFFERED_BY",
+      "tail": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353856"
+    },
+    {
+      "head": "job_1353856",
+      "relation": "OFFERED_BY",
+      "tail": "company_南京电子工程研究所（中国电子科技集团公司第二十八研究所）"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353956"
+    },
+    {
+      "head": "job_1353956",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳佑驾创新科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1353983"
+    },
+    {
+      "head": "job_1353983",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆山外山血液净化技术股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354114"
+    },
+    {
+      "head": "job_1354114",
+      "relation": "OFFERED_BY",
+      "tail": "company_广西路建工程集团有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354256"
+    },
+    {
+      "head": "job_1354256",
+      "relation": "OFFERED_BY",
+      "tail": "company_坤泰车辆系统（常州）股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354328"
+    },
+    {
+      "head": "job_1354328",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江国际大宗商品交易中心有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354387"
+    },
+    {
+      "head": "job_1354387",
+      "relation": "OFFERED_BY",
+      "tail": "company_郑州煤矿机械集团有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354672"
+    },
+    {
+      "head": "job_1354672",
+      "relation": "OFFERED_BY",
+      "tail": "company_北太振寰（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354700"
+    },
+    {
+      "head": "job_1354700",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川电子机械职业技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354703"
+    },
+    {
+      "head": "job_1354703",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川电子机械职业技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1354853"
+    },
+    {
+      "head": "job_1354853",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国船舶集团有限公司第七二二研究所"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355158"
+    },
+    {
+      "head": "job_1355158",
+      "relation": "OFFERED_BY",
+      "tail": "company_清源智翔（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355160"
+    },
+    {
+      "head": "job_1355160",
+      "relation": "OFFERED_BY",
+      "tail": "company_清源智翔（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355164"
+    },
+    {
+      "head": "job_1355164",
+      "relation": "OFFERED_BY",
+      "tail": "company_清源智翔（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355176"
+    },
+    {
+      "head": "job_1355176",
+      "relation": "OFFERED_BY",
+      "tail": "company_清源智翔（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355251"
+    },
+    {
+      "head": "job_1355251",
+      "relation": "OFFERED_BY",
+      "tail": "company_贵州航天风华精密设备有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355663"
+    },
+    {
+      "head": "job_1355663",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海穹窿科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355664"
+    },
+    {
+      "head": "job_1355664",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海穹窿科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355776"
+    },
+    {
+      "head": "job_1355776",
+      "relation": "OFFERED_BY",
+      "tail": "company_国元证券股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355812"
+    },
+    {
+      "head": "job_1355812",
+      "relation": "OFFERED_BY",
+      "tail": "company_黑芝麻智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355816"
+    },
+    {
+      "head": "job_1355816",
+      "relation": "OFFERED_BY",
+      "tail": "company_黑芝麻智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355817"
+    },
+    {
+      "head": "job_1355817",
+      "relation": "OFFERED_BY",
+      "tail": "company_黑芝麻智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1355820"
+    },
+    {
+      "head": "job_1355820",
+      "relation": "OFFERED_BY",
+      "tail": "company_黑芝麻智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356059"
+    },
+    {
+      "head": "job_1356059",
+      "relation": "OFFERED_BY",
+      "tail": "company_万华化学集团股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356065"
+    },
+    {
+      "head": "job_1356065",
+      "relation": "OFFERED_BY",
+      "tail": "company_中海辉固地学服务（深圳）有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356270"
+    },
+    {
+      "head": "job_1356270",
+      "relation": "OFFERED_BY",
+      "tail": "company_中冶赛迪信息技术（重庆）有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356504"
+    },
+    {
+      "head": "job_1356504",
+      "relation": "OFFERED_BY",
+      "tail": "company_广发银行股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356572"
+    },
+    {
+      "head": "job_1356572",
+      "relation": "OFFERED_BY",
+      "tail": "company_佛山市云米电器科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356610"
+    },
+    {
+      "head": "job_1356610",
+      "relation": "OFFERED_BY",
+      "tail": "company_中信出版集团股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356633"
+    },
+    {
+      "head": "job_1356633",
+      "relation": "OFFERED_BY",
+      "tail": "company_中信出版集团股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356634"
+    },
+    {
+      "head": "job_1356634",
+      "relation": "OFFERED_BY",
+      "tail": "company_中信出版集团股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356800"
+    },
+    {
+      "head": "job_1356800",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆三友机器制造有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1356810"
+    },
+    {
+      "head": "job_1356810",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆三友机器制造有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1357918"
+    },
+    {
+      "head": "job_1357918",
+      "relation": "OFFERED_BY",
+      "tail": "company_武汉金山办公软件有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1357920"
+    },
+    {
+      "head": "job_1357920",
+      "relation": "OFFERED_BY",
+      "tail": "company_中船重工安谱（湖北）仪器有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1357921"
+    },
+    {
+      "head": "job_1357921",
+      "relation": "OFFERED_BY",
+      "tail": "company_武汉金山办公软件有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1357925"
+    },
+    {
+      "head": "job_1357925",
+      "relation": "OFFERED_BY",
+      "tail": "company_武汉金山办公软件有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358003"
+    },
+    {
+      "head": "job_1358003",
+      "relation": "OFFERED_BY",
+      "tail": "company_厦门银行股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358309"
+    },
+    {
+      "head": "job_1358309",
+      "relation": "OFFERED_BY",
+      "tail": "company_中电科翌智航（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358312"
+    },
+    {
+      "head": "job_1358312",
+      "relation": "OFFERED_BY",
+      "tail": "company_中电科翌智航（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358315"
+    },
+    {
+      "head": "job_1358315",
+      "relation": "OFFERED_BY",
+      "tail": "company_中电科翌智航（重庆）科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358350"
+    },
+    {
+      "head": "job_1358350",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆信息通信研究院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358599"
+    },
+    {
+      "head": "job_1358599",
+      "relation": "OFFERED_BY",
+      "tail": "company_迈克生物股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1358946"
+    },
+    {
+      "head": "job_1358946",
+      "relation": "OFFERED_BY",
+      "tail": "company_爱芯元智半导体股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359024"
+    },
+    {
+      "head": "job_1359024",
+      "relation": "OFFERED_BY",
+      "tail": "company_武汉金山办公软件有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359073"
+    },
+    {
+      "head": "job_1359073",
+      "relation": "OFFERED_BY",
+      "tail": "company_爱芯元智半导体股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359075"
+    },
+    {
+      "head": "job_1359075",
+      "relation": "OFFERED_BY",
+      "tail": "company_爱芯元智半导体股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359076"
+    },
+    {
+      "head": "job_1359076",
+      "relation": "OFFERED_BY",
+      "tail": "company_爱芯元智半导体股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359129"
+    },
+    {
+      "head": "job_1359129",
+      "relation": "OFFERED_BY",
+      "tail": "company_广州影子科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359173"
+    },
+    {
+      "head": "job_1359173",
+      "relation": "OFFERED_BY",
+      "tail": "company_首钢京唐钢铁联合有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359309"
+    },
+    {
+      "head": "job_1359309",
+      "relation": "OFFERED_BY",
+      "tail": "company_中石化上海工程有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359696"
+    },
+    {
+      "head": "job_1359696",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆同沃汽车科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359699"
+    },
+    {
+      "head": "job_1359699",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆同沃汽车科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359700"
+    },
+    {
+      "head": "job_1359700",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆同沃汽车科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359718"
+    },
+    {
+      "head": "job_1359718",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海傅利叶智能科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359742"
+    },
+    {
+      "head": "job_1359742",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海傅利叶智能科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360143"
+    },
+    {
+      "head": "job_1360143",
+      "relation": "OFFERED_BY",
+      "tail": "company_永辉超市股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360492"
+    },
+    {
+      "head": "job_1360492",
+      "relation": "OFFERED_BY",
+      "tail": "company_中机中联工程有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360526"
+    },
+    {
+      "head": "job_1360526",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆智能工程职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360541"
+    },
+    {
+      "head": "job_1360541",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都理工大学工程技术学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360716"
+    },
+    {
+      "head": "job_1360716",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆青山工业有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360799"
+    },
+    {
+      "head": "job_1360799",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州和利时自动化有限公司西安分公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1361037"
+    },
+    {
+      "head": "job_1361037",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆华地资环科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1361135"
+    },
+    {
+      "head": "job_1361135",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国铁道科学研究院集团有限公司铁道建筑研究所"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1361540"
+    },
+    {
+      "head": "job_1361540",
+      "relation": "OFFERED_BY",
+      "tail": "company_中石化经纬有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1361988"
+    },
+    {
+      "head": "job_1361988",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆红宇精密工业集团有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362301"
+    },
+    {
+      "head": "job_1362301",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆星英会互联网科技集团有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362350"
+    },
+    {
+      "head": "job_1362350",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆方正高密电子有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362357"
+    },
+    {
+      "head": "job_1362357",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳市腾盛精密装备股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362486"
+    },
+    {
+      "head": "job_1362486",
+      "relation": "OFFERED_BY",
+      "tail": "company_郑州商品交易所"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362506"
+    },
+    {
+      "head": "job_1362506",
+      "relation": "OFFERED_BY",
+      "tail": "company_中共石家庄市新华区委组织部"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362542"
+    },
+    {
+      "head": "job_1362542",
+      "relation": "OFFERED_BY",
+      "tail": "company_宁夏交通建设股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1364826"
+    },
+    {
+      "head": "job_1364826",
+      "relation": "OFFERED_BY",
+      "tail": "company_广州三川控制系统工程设备有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1364837"
+    },
+    {
+      "head": "job_1364837",
+      "relation": "OFFERED_BY",
+      "tail": "company_中铁桥隧技术有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1365013"
+    },
+    {
+      "head": "job_1365013",
+      "relation": "OFFERED_BY",
+      "tail": "company_深圳市熙锐网络科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1365105"
+    },
+    {
+      "head": "job_1365105",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆沐晨人工智能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1366668"
+    },
+    {
+      "head": "job_1366668",
+      "relation": "OFFERED_BY",
+      "tail": "company_汉江师范学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1367606"
+    },
+    {
+      "head": "job_1367606",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市中小企业发展服务中心"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1367710"
+    },
+    {
+      "head": "job_1367710",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京华清远见科技发展有限公司重庆分公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1367896"
+    },
+    {
+      "head": "job_1367896",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆交通职业学院"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1368440"
+    },
+    {
+      "head": "job_1368440",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆中电自能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1368441"
+    },
+    {
+      "head": "job_1368441",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆中电自能科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1369443"
+    },
+    {
+      "head": "job_1369443",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1369463"
+    },
+    {
+      "head": "job_1369463",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆诺源工业软件科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1369891"
+    },
+    {
+      "head": "job_1369891",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆拾玖佳企业管理有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1370287"
+    },
+    {
+      "head": "job_1370287",
+      "relation": "OFFERED_BY",
+      "tail": "company_枝江市职业教育中心"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1374931"
+    },
+    {
+      "head": "job_1374931",
+      "relation": "OFFERED_BY",
+      "tail": "company_先临三维科技股份有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1375972"
+    },
+    {
+      "head": "job_1375972",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都泓睿科技有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1376480"
+    },
+    {
+      "head": "job_1376480",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都泓睿科技有限责任公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1376509"
+    },
+    {
+      "head": "job_1376509",
+      "relation": "OFFERED_BY",
+      "tail": "company_彩虹无人机科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1376675"
+    },
+    {
+      "head": "job_1376675",
+      "relation": "OFFERED_BY",
+      "tail": "company_湖北航天飞行器研究所"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1377470"
+    },
+    {
+      "head": "job_1377470",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆嘉陵特种装备有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1377497"
+    },
+    {
+      "head": "job_1377497",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江时空智子大数据有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1377514"
+    },
+    {
+      "head": "job_1377514",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市渝发水利科学研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1377807"
+    },
+    {
+      "head": "job_1377807",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市渝发水利科学研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1377812"
+    },
+    {
+      "head": "job_1377812",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市渝发水利科学研究院有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1378307"
+    },
+    {
+      "head": "job_1378307",
+      "relation": "OFFERED_BY",
+      "tail": "company_宁波频泰光电科技有限公司"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45222748"
+    },
+    {
+      "head": "job_45222748",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45210987"
+    },
+    {
+      "head": "job_45210987",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45177477"
+    },
+    {
+      "head": "job_45177477",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45155910"
+    },
+    {
+      "head": "job_45155910",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45153585"
+    },
+    {
+      "head": "job_45153585",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44773070"
+    },
+    {
+      "head": "job_44773070",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45090959"
+    },
+    {
+      "head": "job_45090959",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_19138521"
+    },
+    {
+      "head": "job_19138521",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45077009"
+    },
+    {
+      "head": "job_45077009",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45069982"
+    },
+    {
+      "head": "job_45069982",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45056782"
+    },
+    {
+      "head": "job_45056782",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45046125"
+    },
+    {
+      "head": "job_45046125",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45044537"
+    },
+    {
+      "head": "job_45044537",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45038327"
+    },
+    {
+      "head": "job_45038327",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45038304"
+    },
+    {
+      "head": "job_45038304",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44916138"
+    },
+    {
+      "head": "job_44916138",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45011146"
+    },
+    {
+      "head": "job_45011146",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45000766"
+    },
+    {
+      "head": "job_45000766",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_3680272"
+    },
+    {
+      "head": "job_3680272",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_17740387"
+    },
+    {
+      "head": "job_17740387",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44977178"
+    },
+    {
+      "head": "job_44977178",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44971524"
+    },
+    {
+      "head": "job_44971524",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44971191"
+    },
+    {
+      "head": "job_44971191",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44971186"
+    },
+    {
+      "head": "job_44971186",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44955290"
+    },
+    {
+      "head": "job_44955290",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44912126"
+    },
+    {
+      "head": "job_44912126",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44915926"
+    },
+    {
+      "head": "job_44915926",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44431826"
+    },
+    {
+      "head": "job_44431826",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44910784"
+    },
+    {
+      "head": "job_44910784",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44905515"
+    },
+    {
+      "head": "job_44905515",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44901876"
+    },
+    {
+      "head": "job_44901876",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_15499279"
+    },
+    {
+      "head": "job_15499279",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44681601"
+    },
+    {
+      "head": "job_44681601",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44834382"
+    },
+    {
+      "head": "job_44834382",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44825512"
+    },
+    {
+      "head": "job_44825512",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_43047225"
+    },
+    {
+      "head": "job_43047225",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_33710974"
+    },
+    {
+      "head": "job_33710974",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_软件工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44624228"
+    },
+    {
+      "head": "job_44624228",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e23"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e24"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e25"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e26"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e27"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e28"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e29"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e30"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e7"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e8"
+    },
+    {
+      "head": "e14",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e15",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e16",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e17",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e18",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e10"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e13"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e11"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e11"
+    },
+    {
+      "head": "e8",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e12"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e19"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e20"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e21"
+    },
+    {
+      "head": "e5",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e22"
+    },
+    {
+      "head": "e23",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e23",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e23",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e7"
+    },
+    {
+      "head": "e24",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e25",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e26",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e27",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e27",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e28",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e28",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e7"
+    },
+    {
+      "head": "e29",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e30",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    }
+  ]
+}

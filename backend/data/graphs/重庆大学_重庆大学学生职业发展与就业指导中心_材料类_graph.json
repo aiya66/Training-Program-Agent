@@ -1,0 +1,460 @@
+{
+  "entities": [
+    {
+      "id": "major_材料类",
+      "name": "材料类",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1224488",
+      "name": "储备制造工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆光能佛吉亚汽车内饰系统有限公司",
+      "name": "重庆光能佛吉亚汽车内饰系统有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224669",
+      "name": "品质管理员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆老顽固实业有限公司",
+      "name": "重庆老顽固实业有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224679",
+      "name": "质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆创精温锻成型有限公司",
+      "name": "重庆创精温锻成型有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224794",
+      "name": "车间储备管理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_蜂巢动力系统（重庆）有限公司",
+      "name": "蜂巢动力系统（重庆）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1225026",
+      "name": "高分子技术员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_道恩高分子材料（重庆）有限公司",
+      "name": "道恩高分子材料（重庆）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "材料类",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "材料制造与工艺能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "质量管理与检验能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "生产管理与优化能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "高分子材料工艺能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e6",
+      "name": "工艺/产品策划",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e7",
+      "name": "工艺/产品文件编制",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e8",
+      "name": "工艺/产品问题分析解决",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e9",
+      "name": "材料检验技术",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e10",
+      "name": "质量管理体系",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e11",
+      "name": "生产设备操作与维护",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e12",
+      "name": "高分子材料工艺学",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e13",
+      "name": "标准化作业",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e14",
+      "name": "工艺优化",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e15",
+      "name": "设备熟悉",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e16",
+      "name": "检验记录与报告",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e17",
+      "name": "质量问题处理",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e18",
+      "name": "生产调度",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e19",
+      "name": "技术问题解决",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e20",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e21",
+      "name": "责任心",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e22",
+      "name": "协调能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e23",
+      "name": "抗压能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e24",
+      "name": "储备制造工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e25",
+      "name": "品质管理员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e26",
+      "name": "质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e27",
+      "name": "车间储备管理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e28",
+      "name": "高分子技术员",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_材料类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224488"
+    },
+    {
+      "head": "job_1224488",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆光能佛吉亚汽车内饰系统有限公司"
+    },
+    {
+      "head": "major_材料类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224669"
+    },
+    {
+      "head": "job_1224669",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆老顽固实业有限公司"
+    },
+    {
+      "head": "major_材料类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224679"
+    },
+    {
+      "head": "job_1224679",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆创精温锻成型有限公司"
+    },
+    {
+      "head": "major_材料类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224794"
+    },
+    {
+      "head": "job_1224794",
+      "relation": "OFFERED_BY",
+      "tail": "company_蜂巢动力系统（重庆）有限公司"
+    },
+    {
+      "head": "major_材料类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1225026"
+    },
+    {
+      "head": "job_1225026",
+      "relation": "OFFERED_BY",
+      "tail": "company_道恩高分子材料（重庆）有限公司"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e24"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e25"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e26"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e27"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e28"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e6",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e7",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e8",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e9",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e10",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e11",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e12",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e13"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e14"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e15"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e16"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e17"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e18"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e19"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e23"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e20"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e21"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e22"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e20"
+    },
+    {
+      "head": "e5",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e23"
+    },
+    {
+      "head": "e24",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e25",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e26",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e27",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e28",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e5"
+    }
+  ]
+}

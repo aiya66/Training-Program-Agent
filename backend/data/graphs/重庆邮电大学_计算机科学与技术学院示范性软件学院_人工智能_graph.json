@@ -1,0 +1,1173 @@
+{
+  "entities": [
+    {
+      "id": "major_人工智能",
+      "name": "人工智能",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1255515",
+      "name": "电学英语-专利代理人",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京柳沈（成都）律师事务所",
+      "name": "北京柳沈（成都）律师事务所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1255516",
+      "name": "电学日语-专利代理人",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京柳沈（成都）律师事务所",
+      "name": "北京柳沈（成都）律师事务所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1258727",
+      "name": "物联网应用技术专业教师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆建筑科技职业学院",
+      "name": "重庆建筑科技职业学院",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1261255",
+      "name": "博士后",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆机场集团有限公司",
+      "name": "重庆机场集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1282142",
+      "name": "智慧家庭工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海一橙网络科技股份有限公司重庆分公司",
+      "name": "上海一橙网络科技股份有限公司重庆分公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1283296",
+      "name": "软/硬件设计师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_西南计算机有限责任公司",
+      "name": "西南计算机有限责任公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1314774",
+      "name": "储备干部",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_玛格家居股份有限公司",
+      "name": "玛格家居股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1315255",
+      "name": "课程顾问",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市渝中区渝创乐博科技培训中心有限公司",
+      "name": "重庆市渝中区渝创乐博科技培训中心有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1317007",
+      "name": "AI算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都天奥集团有限公司",
+      "name": "成都天奥集团有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1323653",
+      "name": "自动化设备运维作业员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_蜂巢能源科技（湖州）有限公司",
+      "name": "蜂巢能源科技（湖州）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1330814",
+      "name": "主播",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆萝卜兔文化娱乐有限公司",
+      "name": "重庆萝卜兔文化娱乐有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1340903",
+      "name": "技术研发工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_方大特钢科技股份有限公司",
+      "name": "方大特钢科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1341800",
+      "name": "生产技术员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_海尔智家西南大区（重庆空调器有限公司等）",
+      "name": "海尔智家西南大区（重庆空调器有限公司等）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1345596",
+      "name": "储备见习工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆海康威视科技有限公司",
+      "name": "重庆海康威视科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1347696",
+      "name": "物流岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_富晟正达（成都）物流有限公司",
+      "name": "富晟正达（成都）物流有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1350694",
+      "name": "储备基层管理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_海尔智家西南大区（重庆空调器有限公司等）",
+      "name": "海尔智家西南大区（重庆空调器有限公司等）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1352735",
+      "name": "AI应用工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_成都劳恩普斯科技有限公司",
+      "name": "成都劳恩普斯科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1359958",
+      "name": "人工智能技术岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中国石化集团重庆川维化工有限公司",
+      "name": "中国石化集团重庆川维化工有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360290",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆德方信息技术有限公司",
+      "name": "重庆德方信息技术有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1360935",
+      "name": "伊藤忠物流",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_上海思佰特沪酒店管理有限公司",
+      "name": "上海思佰特沪酒店管理有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1361399",
+      "name": "储备干部",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_玛格家居股份有限公司",
+      "name": "玛格家居股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1361540",
+      "name": "人工智能岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_中石化经纬有限公司",
+      "name": "中石化经纬有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1367710",
+      "name": "软件开发工程师助理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_北京华清远见科技发展有限公司重庆分公司",
+      "name": "北京华清远见科技发展有限公司重庆分公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1373712",
+      "name": "储备基层管理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_海尔智家西南大区（重庆空调器有限公司等）",
+      "name": "海尔智家西南大区（重庆空调器有限公司等）",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_19400575",
+      "name": "标注专员+月休6-8天+可接受24届毕业",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45153585",
+      "name": "Ai项目经理（重庆 开州）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44773070",
+      "name": "数据库工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44719637",
+      "name": "人工智能工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45074247",
+      "name": "助理软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45046125",
+      "name": "AIGC管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45005988",
+      "name": "厂长助理（储备干部）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44992626",
+      "name": "人工智能训练师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44911895",
+      "name": "人工智能训练师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44905602",
+      "name": "人工智能助理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44894920",
+      "name": "高级助理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44828961",
+      "name": "AI从业人员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_15032895",
+      "name": "医药信息分析师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44803894",
+      "name": "AI 业务解决方案工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "人工智能",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "AI算法开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "AI应用开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "Python编程",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e5",
+      "name": "深度学习框架",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e6",
+      "name": "Python",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e7",
+      "name": "TensorFlow",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e8",
+      "name": "PyTorch",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e9",
+      "name": "沟通能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e10",
+      "name": "学习能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e11",
+      "name": "责任心",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e12",
+      "name": "AI算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e13",
+      "name": "AI应用工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e14",
+      "name": "算法工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e15",
+      "name": "人工智能技术岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e16",
+      "name": "深度学习算法",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e17",
+      "name": "机器学习算法",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e18",
+      "name": "数据清洗",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e19",
+      "name": "数据标注",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e20",
+      "name": "模型训练",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e21",
+      "name": "模型部署",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e22",
+      "name": "AIAgent开发",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e23",
+      "name": "业务自动化",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e24",
+      "name": "大模型API集成",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e25",
+      "name": "系统集成",
+      "type": "Skill",
+      "category": "Skill"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1255515"
+    },
+    {
+      "head": "job_1255515",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京柳沈（成都）律师事务所"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1255516"
+    },
+    {
+      "head": "job_1255516",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京柳沈（成都）律师事务所"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1258727"
+    },
+    {
+      "head": "job_1258727",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆建筑科技职业学院"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1261255"
+    },
+    {
+      "head": "job_1261255",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆机场集团有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1282142"
+    },
+    {
+      "head": "job_1282142",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海一橙网络科技股份有限公司重庆分公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1283296"
+    },
+    {
+      "head": "job_1283296",
+      "relation": "OFFERED_BY",
+      "tail": "company_西南计算机有限责任公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1314774"
+    },
+    {
+      "head": "job_1314774",
+      "relation": "OFFERED_BY",
+      "tail": "company_玛格家居股份有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1315255"
+    },
+    {
+      "head": "job_1315255",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市渝中区渝创乐博科技培训中心有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1317007"
+    },
+    {
+      "head": "job_1317007",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都天奥集团有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1323653"
+    },
+    {
+      "head": "job_1323653",
+      "relation": "OFFERED_BY",
+      "tail": "company_蜂巢能源科技（湖州）有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1330814"
+    },
+    {
+      "head": "job_1330814",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆萝卜兔文化娱乐有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1340903"
+    },
+    {
+      "head": "job_1340903",
+      "relation": "OFFERED_BY",
+      "tail": "company_方大特钢科技股份有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1341800"
+    },
+    {
+      "head": "job_1341800",
+      "relation": "OFFERED_BY",
+      "tail": "company_海尔智家西南大区（重庆空调器有限公司等）"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1345596"
+    },
+    {
+      "head": "job_1345596",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆海康威视科技有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1347696"
+    },
+    {
+      "head": "job_1347696",
+      "relation": "OFFERED_BY",
+      "tail": "company_富晟正达（成都）物流有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1350694"
+    },
+    {
+      "head": "job_1350694",
+      "relation": "OFFERED_BY",
+      "tail": "company_海尔智家西南大区（重庆空调器有限公司等）"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1352735"
+    },
+    {
+      "head": "job_1352735",
+      "relation": "OFFERED_BY",
+      "tail": "company_成都劳恩普斯科技有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1359958"
+    },
+    {
+      "head": "job_1359958",
+      "relation": "OFFERED_BY",
+      "tail": "company_中国石化集团重庆川维化工有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360290"
+    },
+    {
+      "head": "job_1360290",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆德方信息技术有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1360935"
+    },
+    {
+      "head": "job_1360935",
+      "relation": "OFFERED_BY",
+      "tail": "company_上海思佰特沪酒店管理有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1361399"
+    },
+    {
+      "head": "job_1361399",
+      "relation": "OFFERED_BY",
+      "tail": "company_玛格家居股份有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1361540"
+    },
+    {
+      "head": "job_1361540",
+      "relation": "OFFERED_BY",
+      "tail": "company_中石化经纬有限公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1367710"
+    },
+    {
+      "head": "job_1367710",
+      "relation": "OFFERED_BY",
+      "tail": "company_北京华清远见科技发展有限公司重庆分公司"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1373712"
+    },
+    {
+      "head": "job_1373712",
+      "relation": "OFFERED_BY",
+      "tail": "company_海尔智家西南大区（重庆空调器有限公司等）"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_19400575"
+    },
+    {
+      "head": "job_19400575",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45153585"
+    },
+    {
+      "head": "job_45153585",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44773070"
+    },
+    {
+      "head": "job_44773070",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44719637"
+    },
+    {
+      "head": "job_44719637",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45074247"
+    },
+    {
+      "head": "job_45074247",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45046125"
+    },
+    {
+      "head": "job_45046125",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45005988"
+    },
+    {
+      "head": "job_45005988",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44992626"
+    },
+    {
+      "head": "job_44992626",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44911895"
+    },
+    {
+      "head": "job_44911895",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44905602"
+    },
+    {
+      "head": "job_44905602",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44894920"
+    },
+    {
+      "head": "job_44894920",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44828961"
+    },
+    {
+      "head": "job_44828961",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_15032895"
+    },
+    {
+      "head": "job_15032895",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_人工智能",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44803894"
+    },
+    {
+      "head": "job_44803894",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e12"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e13"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e14"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e15"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e4",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e4",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e5",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e5",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e6"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e7"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e8"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e16"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e17"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e18"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e19"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e20"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e21"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e6"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e22"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e23"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e24"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e25"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e9"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e10"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e9"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e10"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e12",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e13",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e14",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    }
+  ]
+}

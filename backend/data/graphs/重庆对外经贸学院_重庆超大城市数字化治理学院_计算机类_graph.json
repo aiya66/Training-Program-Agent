@@ -1,0 +1,361 @@
+{
+  "entities": [
+    {
+      "id": "major_计算机类",
+      "name": "计算机类",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1224252",
+      "name": "办公室文员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市一方财务代理有限公司",
+      "name": "重庆市一方财务代理有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224341",
+      "name": "品类营运专员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆凤梧商贸有限公司",
+      "name": "重庆凤梧商贸有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224464",
+      "name": "行政文员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆市一方财务代理有限公司",
+      "name": "重庆市一方财务代理有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224492",
+      "name": "储备质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆光能佛吉亚汽车内饰系统有限公司",
+      "name": "重庆光能佛吉亚汽车内饰系统有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1224650",
+      "name": "助理工程师-设备维护",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆京东方光电科技有限公司",
+      "name": "重庆京东方光电科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "计算机类",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "办公软件应用能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "数据分析能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "质量管理能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "设备维护能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e6",
+      "name": "WPS",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e7",
+      "name": "办公软件",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e8",
+      "name": "数据分析",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e9",
+      "name": "质量管理工具",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "自动化设备维修",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e11",
+      "name": "认真细致",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e12",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e13",
+      "name": "独立思考",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e14",
+      "name": "吃苦耐劳",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e15",
+      "name": "办公室文员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e16",
+      "name": "品类营运专员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e17",
+      "name": "行政文员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e18",
+      "name": "储备质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e19",
+      "name": "助理工程师-设备维护",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_计算机类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224252"
+    },
+    {
+      "head": "job_1224252",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市一方财务代理有限公司"
+    },
+    {
+      "head": "major_计算机类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224341"
+    },
+    {
+      "head": "job_1224341",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆凤梧商贸有限公司"
+    },
+    {
+      "head": "major_计算机类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224464"
+    },
+    {
+      "head": "job_1224464",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆市一方财务代理有限公司"
+    },
+    {
+      "head": "major_计算机类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224492"
+    },
+    {
+      "head": "job_1224492",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆光能佛吉亚汽车内饰系统有限公司"
+    },
+    {
+      "head": "major_计算机类",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1224650"
+    },
+    {
+      "head": "job_1224650",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆京东方光电科技有限公司"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e15"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e16"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e17"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e18"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e19"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e6"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e7"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e8"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e10"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e12"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e13"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e14"
+    },
+    {
+      "head": "e5",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e16",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e17",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e18",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e19",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e5"
+    }
+  ]
+}

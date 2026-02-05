@@ -1,0 +1,324 @@
+{
+  "entities": [
+    {
+      "id": "major_1、本科及以上学历",
+      "name": "1、本科及以上学历",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1225769",
+      "name": "硬件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆龙润汽车转向器有限公司",
+      "name": "重庆龙润汽车转向器有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1287369",
+      "name": "EPS性能评价及调试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆龙润汽车转向器有限公司",
+      "name": "重庆龙润汽车转向器有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1308744",
+      "name": "自动化软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州长川科技股份有限公司",
+      "name": "杭州长川科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1311807",
+      "name": "硬件工程师（模拟）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州长川科技股份有限公司",
+      "name": "杭州长川科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "自动化",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "硬件系统设计与开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "自动化软件设计与开发能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "EPS系统调试与评价能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "电路分析",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e6",
+      "name": "模拟电子技术",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e7",
+      "name": "C++编程",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e8",
+      "name": "C#编程",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e9",
+      "name": "Altium Designer",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "Cadence",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e11",
+      "name": "C++",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e12",
+      "name": "C#",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e13",
+      "name": "Git",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e14",
+      "name": "Hyperlyx",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e15",
+      "name": "逻辑思维与分析能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e16",
+      "name": "硬件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e17",
+      "name": "硬件工程师（模拟）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e18",
+      "name": "自动化软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e19",
+      "name": "EPS性能评价及调试工程师",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1225769"
+    },
+    {
+      "head": "job_1225769",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆龙润汽车转向器有限公司"
+    },
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1287369"
+    },
+    {
+      "head": "job_1287369",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆龙润汽车转向器有限公司"
+    },
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1308744"
+    },
+    {
+      "head": "job_1308744",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州长川科技股份有限公司"
+    },
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1311807"
+    },
+    {
+      "head": "job_1311807",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州长川科技股份有限公司"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e16"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e17"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e18"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e19"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e5",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e6",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e7",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e8",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e10"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e14"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e11"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e12"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e13"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e15"
+    },
+    {
+      "head": "e16",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e17",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e18",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e19",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    }
+  ]
+}
