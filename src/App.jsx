@@ -648,11 +648,33 @@ function App() {
                                 培养方案智能体
                             </h3>
                             <button 
-                                onClick={() => setIsFullGraphOpen(true)}
-                                className="p-1.5 hover:bg-white/10 rounded-lg text-gray-400 hover:text-blue-400 transition-colors"
-                                title="全屏查看"
+                                onClick={() => graphData && setIsFullGraphOpen(true)}
+                                disabled={!graphData}
+                                className={`flex items-center gap-2 px-3 py-1.5 rounded-lg transition-all text-xs font-medium border border-transparent ${
+                                    graphData 
+                                        ? 'bg-blue-500/20 text-blue-300 hover:bg-blue-500/30 hover:text-blue-200 border-blue-500/30 cursor-pointer' 
+                                        : loading 
+                                            ? 'bg-white/5 text-yellow-400/80 border-white/5 cursor-wait'
+                                            : 'bg-white/5 text-gray-500 border-white/5 cursor-not-allowed'
+                                }`}
+                                title={graphData ? "全屏查看" : loading ? "正在生成图谱..." : "暂无图谱数据"}
                             >
-                                <Maximize size={16} />
+                                {loading ? (
+                                    <>
+                                        <div className="w-3 h-3 border-2 border-yellow-400/30 border-t-yellow-400 rounded-full animate-spin" />
+                                        <span>正在生成</span>
+                                    </>
+                                ) : graphData ? (
+                                    <>
+                                        <Maximize size={14} />
+                                        <span>点击查看</span>
+                                    </>
+                                ) : (
+                                    <>
+                                        <Maximize size={14} className="opacity-50"/>
+                                        <span>等待生成</span>
+                                    </>
+                                )}
                             </button>
                         </div>
                         <div className="flex-1 relative bg-black/20 rounded-xl border border-white/5 overflow-hidden">
