@@ -10,24 +10,24 @@ const ProcessFlow = ({ currentStep = 0 }) => {
   // Custom Node Configuration based on user's flowchart
   const nodes = [
     // Step 1: Start / Data Elements
-    { id: 'start', x: 5, y: 50, label: "数据要素", icon: Database, color: "blue", stepThreshold: 1, description: "初始化数据采集任务，确立数据要素基础" },
+    { id: 'start', x: 5, y: 50, label: "数据要素", icon: Database, color: "red", stepThreshold: 1, description: "初始化数据采集任务，确立数据要素基础" },
 
     // Step 1.5: Data Sources (Parallel)
-    { id: 'src-1', x: 25, y: 20, label: "海量岗位", icon: Briefcase, color: "blue", stepThreshold: 1, description: "采集全网海量招聘岗位数据" },
-    { id: 'src-2', x: 25, y: 40, label: "高质量岗位", icon: Award, color: "blue", stepThreshold: 1, description: "筛选重点企业高质量岗位需求" },
-    { id: 'src-3', x: 25, y: 60, label: "行业发展", icon: TrendingUp, color: "blue", stepThreshold: 1, description: "分析行业发展趋势报告" },
-    { id: 'src-4', x: 25, y: 80, label: "政策文件", icon: FileText, color: "blue", stepThreshold: 1, description: "解析国家及地方相关政策文件" },
+    { id: 'src-1', x: 25, y: 20, label: "海量岗位", icon: Briefcase, color: "red", stepThreshold: 1, description: "采集全网海量招聘岗位数据" },
+    { id: 'src-2', x: 25, y: 40, label: "高质量岗位", icon: Award, color: "red", stepThreshold: 1, description: "筛选重点企业高质量岗位需求" },
+    { id: 'src-3', x: 25, y: 60, label: "行业发展", icon: TrendingUp, color: "red", stepThreshold: 1, description: "分析行业发展趋势报告" },
+    { id: 'src-4', x: 25, y: 80, label: "政策文件", icon: FileText, color: "red", stepThreshold: 1, description: "解析国家及地方相关政策文件" },
 
     // Step 2: Verification & Summary
-    { id: 'verify', x: 45, y: 50, label: "验证汇总", icon: CheckSquare, color: "purple", stepThreshold: 2, description: "多源数据交叉验证与清洗汇总" },
+    { id: 'verify', x: 45, y: 50, label: "验证汇总", icon: CheckSquare, color: "red", stepThreshold: 2, description: "多源数据交叉验证与清洗汇总" },
 
     // Step 3: Graph Construction
-    { id: 'build', x: 60, y: 50, label: "构建图谱", icon: Network, color: "orange", stepThreshold: 3, description: "基于汇总数据构建实体关系网络" },
+    { id: 'build', x: 60, y: 50, label: "构建图谱", icon: Network, color: "red", stepThreshold: 3, description: "基于汇总数据构建实体关系网络" },
 
     // Step 3.5: Graph Types (Parallel)
-    { id: 'graph-1', x: 78, y: 30, label: "知识图谱", icon: Brain, color: "orange", stepThreshold: 3, description: "构建专业知识体系图谱" },
-    { id: 'graph-2', x: 78, y: 50, label: "能力图谱", icon: Zap, color: "orange", stepThreshold: 3, description: "构建岗位核心能力图谱" },
-    { id: 'graph-3', x: 78, y: 70, label: "素质图谱", icon: UserCheck, color: "orange", stepThreshold: 3, description: "构建综合素质要求图谱" },
+    { id: 'graph-1', x: 78, y: 30, label: "知识图谱", icon: Brain, color: "red", stepThreshold: 3, description: "构建专业知识体系图谱" },
+    { id: 'graph-2', x: 78, y: 50, label: "能力图谱", icon: Zap, color: "red", stepThreshold: 3, description: "构建岗位核心能力图谱" },
+    { id: 'graph-3', x: 78, y: 70, label: "素质图谱", icon: UserCheck, color: "red", stepThreshold: 3, description: "构建综合素质要求图谱" },
 
     // Step 4: Display Page
     { id: 'end', x: 95, y: 50, label: "构建展示页面", icon: Layout, color: "green", stepThreshold: 4, description: "生成可视化交互展示页面" },
@@ -144,6 +144,7 @@ const ProcessFlow = ({ currentStep = 0 }) => {
           purple: 'text-purple-400 border-purple-500/50 shadow-purple-500/30',
           orange: 'text-orange-400 border-orange-500/50 shadow-orange-500/30',
           green: 'text-green-400 border-green-500/50 shadow-green-500/30',
+          red: 'text-red-400 border-red-500/50 shadow-red-500/30',
         };
         
         const baseStyle = "w-8 h-8 rounded-lg flex items-center justify-center border transition-all duration-500 z-10 bg-slate-900";

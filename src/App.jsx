@@ -61,7 +61,7 @@ const GraphContainer = ({ data }) => {
           graphData={{ nodes, links }}
           nodeCanvasObject={(node, ctx, globalScale) => {
             const label = node.name || node.id;
-            const fontSize = 12/globalScale;
+            const fontSize = 16/globalScale;
             ctx.font = `${fontSize}px Sans-Serif`;
             
             // Determine color
