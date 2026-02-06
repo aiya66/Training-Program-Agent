@@ -16,7 +16,9 @@ import {
   Database,
   Upload,
   Play,
-  RefreshCw
+  RefreshCw,
+  Maximize,
+  X
 } from 'lucide-react';
 import ForceGraph2D from 'react-force-graph-2d';
 import RadarChart from './components/RadarChart';
@@ -97,6 +99,7 @@ function App() {
   const [hasUploadedPlan, setHasUploadedPlan] = useState(false);
   const [uploadedPlanContext, setUploadedPlanContext] = useState(null); // Store info about uploaded plan
   const [isGraphReady, setIsGraphReady] = useState(false);
+  const [isFullGraphOpen, setIsFullGraphOpen] = useState(false);
 
   const [stats, setStats] = useState([
     "相关就业岗位 0万个",
@@ -619,6 +622,13 @@ function App() {
                                 <Projector className="text-blue-400" size={18}/>
                                 培养方案智能体
                             </h3>
+                            <button 
+                                onClick={() => setIsFullGraphOpen(true)}
+                                className="p-1.5 hover:bg-white/10 rounded-lg text-gray-400 hover:text-blue-400 transition-colors"
+                                title="全屏查看"
+                            >
+                                <Maximize size={16} />
+                            </button>
                         </div>
                         <div className="flex-1 relative bg-black/20 rounded-xl border border-white/5 overflow-hidden">
                              {/* Force Graph Container */}
@@ -662,6 +672,33 @@ function App() {
             </div>
         </div>
       </main>
+
+      {/* Full Screen Graph Modal */}
+      {isFullGraphOpen && (
+        <div className="fixed inset-0 z-50 bg-black/95 flex flex-col animate-in fade-in duration-200 backdrop-blur-sm">
+            <div className="flex items-center justify-between p-6 border-b border-white/10 bg-black/40">
+                <h2 className="text-xl font-semibold text-white flex items-center gap-3">
+                    <Projector className="text-blue-400" size={24}/>
+                    <span className="bg-gradient-to-r from-blue-200 to-purple-200 bg-clip-text text-transparent">培养方案知识图谱 - 全屏沉浸视图</span>
+                </h2>
+                <button 
+                    onClick={() => setIsFullGraphOpen(false)}
+                    className="p-2 hover:bg-white/10 rounded-full text-gray-400 hover:text-white transition-colors"
+                >
+                    <X size={24} />
+                </button>
+            </div>
+            <div className="flex-1 overflow-hidden relative">
+                 {graphData ? (
+                     <GraphContainer data={graphData} />
+                 ) : (
+                     <div className="w-full h-full flex items-center justify-center text-gray-500">
+                         暂无图谱数据
+                     </div>
+                 )}
+            </div>
+        </div>
+      )}
     </div>
   );
 }
