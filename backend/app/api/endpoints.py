@@ -1,9 +1,11 @@
-from fastapi import APIRouter, HTTPException, Query, Body
+from fastapi import APIRouter, HTTPException, Query, Body, UploadFile, File
 from fastapi.responses import StreamingResponse, FileResponse
 from typing import List, Dict
 import asyncio
 import random
 import os
+import io
+import docx
 from app.services.kg_service import kg_service
 from app.services.data_loader import data_loader
 
@@ -18,46 +20,24 @@ except Exception as e:
     HIERARCHY_DATA = {}
 
 # Fallback Mock Data if data loading fails or is empty
-if not HIERARCHY_DATA:
-    SCHOOL_DATA = {
-        "重庆大学": {
-            "计算机学院": ["计算机科学与技术", "软件工程", "人工智能"],
-            "微电子与通信工程学院": ["通信工程", "电子信息工程", "集成电路设计与集成系统"],
-            "自动化学院": ["自动化", "机器人工程", "测控技术与仪器"]
-        },
-        "西南大学": {
-            "人工智能学院": ["智能科学与技术", "数据科学与大数据技术", "自动化"],
-            "计算机与信息科学学院": ["计算机科学与技术", "软件工程", "网络工程"],
-            "工程技术学院": ["土木工程", "机械设计制造及其自动化"]
-        },
-        "重庆邮电大学": {
-            "通信与信息工程学院": ["通信工程", "电子信息工程", "广播电视工程"],
-            "计算机科学与技术学院": ["计算机科学与技术", "智能科学与技术", "空间信息与数字技术"],
-            "自动化学院": ["自动化", "测控技术与仪器", "电气工程及其自动化"]
-        }
-    }
-    HIERARCHY_DATA = SCHOOL_DATA
-
-# Manually add/update 重庆邮电大学 data as requested
 CQUPT_DATA = {
-    "通信与信息工程学院": ["通信工程", "电子信息工程"],
-    "计算机科学与技术学院（示范性软件学院）": ["计算机科学与技术", "软件工程", "信息安全", "网络空间安全", "智能科学与技术", "数据科学与大数据技术", "人工智能"],
-    "自动化学院": ["自动化", "电气工程及其自动化", "物联网工程", "测控技术与仪器", "智能车辆工程"],
-    "光电工程学院（电子科学与工程学院）": ["光电信息科学与工程", "电子科学与技术", "电磁场与无线技术", "微电子科学与工程", "集成电路设计与集成系统"],
-    "先进制造工程学院": ["机械设计制造及其自动化", "智能制造工程", "机器人工程"],
-    "经济管理学院": ["经济学", "金融工程", "信息管理与信息系统", "大数据管理与应用", "工商管理", "市场营销", "会计学", "工程管理（含非全）"],
-    "现代邮政学院": ["邮政工程", "电子商务", "物流管理", "项目管理（非全）"],
-    "数学与统计学院": ["数学与应用数学", "信息与计算科学", "数据计算及应用", "应用统计学"],
-    "生物信息学院": ["生物医学工程", "生物信息学", "医学信息工程"],
+    "通信与信息工程学院": ["通信工程", "电子信息工程", "广播电视工程", "数字媒体技术", "智能电网信息工程", "物联网工程"],
+    "计算机科学与技术学院": ["计算机科学与技术", "数据科学与大数据技术", "信息安全", "智能科学与技术", "空间信息与数字技术", "地理空间信息工程"],
+    "自动化学院": ["自动化", "测控技术与仪器", "电气工程及其自动化", "机械设计制造及其自动化", "智能车辆工程", "机器人工程"],
+    "光电工程学院": ["光电信息科学与工程", "电子科学与技术", "电磁场与无线技术", "微电子科学与工程", "集成电路设计与集成系统"],
+    "软件工程学院": ["软件工程"],
+    "生物信息学院": ["生物医学工程", "生物信息学"],
+    "理学院": ["信息与计算科学", "应用物理学", "数学与应用数学"],
+    "经济管理学院": ["信息管理与信息系统", "工程管理", "工商管理", "会计学", "市场营销", "经济学", "电子商务"],
+    "传媒艺术学院": ["广播电视编导", "动画", "数字媒体艺术", "网络与新媒体"],
     "外国语学院": ["英语", "翻译"],
-    "法学院": ["法学", "知识产权"],
-    "传媒艺术学院": ["广播电视编导", "动画", "数字媒体艺术", "产品设计"],
+    "国际半导体学院": ["微电子科学与工程", "集成电路设计与集成系统"],
+    "先进制造工程学院": ["机械设计制造及其自动化", "智能制造工程"],
+    "网络空间安全与信息法学院": ["信息安全", "网络空间安全", "法学", "知识产权"],
     "体育学院": ["社会体育指导与管理"],
-    "国际学院（中外合作办学）": ["通信工程（与英国布鲁内尔大学合作 4+0）", "电子信息工程（中外合作办学）", "物联网工程（与俄罗斯远东联邦大学合作 4+0）", "软件工程（中外合作办学）"],
-    "联合培养项目（跨校双学位）": ["数据科学与大数据技术 + 经济学（与重庆工商大学联合学士学位）", "法学 + 网络空间安全（与西南政法大学联合学士学位）"],
-    "继续教育学院（负责专升本、继续教育，此处仅列对应专业）": ["英语", "软件工程", "电子商务等（详见当年专升本招生简章）"]
+    "马克思主义学院": [] 
 }
-
+# Merge fallback if empty
 if "重庆邮电大学" not in HIERARCHY_DATA:
     HIERARCHY_DATA["重庆邮电大学"] = {}
 
@@ -198,3 +178,39 @@ async def download_report(
         filename=os.path.basename(file_path),
         media_type='application/vnd.openxmlformats-officedocument.wordprocessingml.document'
     )
+
+@router.post("/agent/upload/parse")
+async def parse_training_plan(file: UploadFile = File(...)):
+    """
+    Parse uploaded training plan file (docx, txt, md) and return text content.
+    """
+    content = ""
+    filename = file.filename.lower()
+    
+    try:
+        if filename.endswith(".docx"):
+            # Read file into memory
+            file_content = await file.read()
+            doc = docx.Document(io.BytesIO(file_content))
+            # Extract text from paragraphs
+            content = "\n".join([para.text for para in doc.paragraphs])
+            
+        elif filename.endswith(".txt") or filename.endswith(".md"):
+            content_bytes = await file.read()
+            try:
+                content = content_bytes.decode("utf-8")
+            except UnicodeDecodeError:
+                content = content_bytes.decode("gbk", errors="ignore")
+                
+        else:
+            # Fallback for other files (PDF not supported yet without extra libs)
+            return {"filename": file.filename, "content": f"[System] 文件 {file.filename} 上传成功，但目前仅支持 .docx/.txt/.md 文本内容提取。"}
+            
+        if not content.strip():
+             return {"filename": file.filename, "content": f"[System] 文件 {file.filename} 上传成功，但内容似乎为空或无法提取。"}
+
+        return {"filename": file.filename, "content": content}
+        
+    except Exception as e:
+        print(f"Error parsing file: {e}")
+        return {"filename": file.filename, "content": f"[System] 文件解析失败: {str(e)}", "error": str(e)}

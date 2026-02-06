@@ -381,31 +381,49 @@ function App() {
                 id="upload-plan" 
                 className="hidden" 
                 accept=".pdf,.doc,.docx" 
-                onChange={(e) => {
+                onChange={async (e) => {
                     if(e.target.files[0]) {
                         const file = e.target.files[0];
+                        
+                        // Optimistically set uploaded state
                         setHasUploadedPlan(true);
                         
-                        // Try to read as text if possible
-                        if (file.type === "text/plain" || file.name.endsWith(".md")) {
-                            const reader = new FileReader();
-                            reader.onload = (event) => {
-                                setUploadedPlanContext({
-                                    fileName: file.name,
-                                    content: event.target.result
-                                });
-                            };
-                            reader.readAsText(file);
-                        } else {
-                            // For binary files (PDF/DOCX), we simulate content for now
-                            // In a real production app, we would upload the file to a backend parser
-                            setUploadedPlanContext({
-                                fileName: file.name,
-                                content: `[注意] 您上传的是 ${file.name} (非纯文本格式)。\n系统已检测到该文件，并将在分析时模拟提取其关键信息（如培养目标、核心课程等）以供大模型参考。\n如果需要更精确的文本分析，建议上传 .txt 或 .md 格式的文本文件。` 
-                            });
-                        }
+                        const formData = new FormData();
+                        formData.append("file", file);
 
-                        alert(`文件 "${file.name}" 已导入成功！\n系统将结合该方案内容构建图谱和分析报告。`);
+                        try {
+                             // Use backend to parse file content (supports docx, txt, md)
+                             const res = await fetch('/api/v1/agent/upload/parse', {
+                                 method: 'POST',
+                                 body: formData
+                             });
+                             
+                             if (res.ok) {
+                                 const data = await res.json();
+                                 if (data.content) {
+                                     setUploadedPlanContext({
+                                         fileName: data.filename,
+                                         content: data.content
+                                     });
+                                     alert(`文件 "${data.filename}" 已导入并成功解析！\n系统已提取文本内容，将在生成图谱和报告时进行深度分析。`);
+                                 } else {
+                                     setUploadedPlanContext({
+                                         fileName: file.name,
+                                         content: `[解析警告] 无法提取文件内容。`
+                                     });
+                                      alert(`文件 "${file.name}" 导入完成，但无法提取文本内容。`);
+                                 }
+                             } else {
+                                 throw new Error("Parse failed");
+                             }
+                        } catch (err) {
+                            console.error("Upload failed", err);
+                             setUploadedPlanContext({
+                                 fileName: file.name,
+                                 content: `[上传失败] 暂时无法解析文件内容，将仅基于文件名进行分析。`
+                             });
+                             alert(`文件 "${file.name}" 解析失败，请重试或上传 .txt/.docx 格式。`);
+                        }
                     }
                 }}
             />
