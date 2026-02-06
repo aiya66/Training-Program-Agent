@@ -152,7 +152,7 @@ function App() {
 
   // Fetch Schools
   useEffect(() => {
-    fetch('/api/v1/schools')
+    fetch(`${API_BASE_URL}/schools`)
       .then(res => res.json())
       .then(data => setSchoolOptions(data))
       .catch(err => console.error("Failed to fetch schools", err));
@@ -173,7 +173,7 @@ function App() {
             node_count: graphData?.entities?.length || 0
         };
 
-        const res = await fetch('/api/v1/agent/analyze', {
+        const res = await fetch(`${API_BASE_URL}/agent/analyze`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -299,7 +299,7 @@ function App() {
 
     try {
       // 1. Fetch Stats
-      const statsRes = await fetch(`/api/v1/stats?major=${encodeURIComponent(major)}`);
+      const statsRes = await fetch(`${API_BASE_URL}/stats?major=${encodeURIComponent(major)}`);
       if (statsRes.ok) {
         const statsData = await statsRes.json();
         setStats([
@@ -313,7 +313,7 @@ function App() {
       setCurrentStep(2); // Move to step 2 (Knowledge Extraction)
 
       // 2. Stream Graph
-      const response = await fetch('/api/v1/agent/stream-build-graph', {
+      const response = await fetch(`${API_BASE_URL}/agent/stream-build-graph`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
