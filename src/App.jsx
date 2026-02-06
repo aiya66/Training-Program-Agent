@@ -609,7 +609,7 @@ function App() {
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="text-lg font-semibold text-white flex items-center gap-2">
                                 <Activity className="text-purple-400" size={18} />
-                                AI 思维实施过程
+                                Ai多智能体协作
                             </h3>
                         </div>
                         <ProcessFlow currentStep={currentStep} />

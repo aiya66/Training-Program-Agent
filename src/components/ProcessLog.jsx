@@ -15,7 +15,7 @@ const ProcessLog = ({ logs = [], currentStep = 0 }) => {
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-lg font-semibold text-white flex items-center gap-2">
           <BookOpen className="text-emerald-400" size={18} />
-          实时思维过程
+          输出
         </h3>
         <div className="flex items-center gap-2">
            <span className="px-2 py-0.5 rounded text-[10px] bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 flex items-center gap-1">
