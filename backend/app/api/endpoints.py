@@ -5,8 +5,10 @@ from typing import Optional, List, Any, Union
 import json
 import os
 import asyncio
+import tempfile
 from app.services import kg_service
 from docx import Document
+from starlette.background import BackgroundTask
 
 router = APIRouter()
 
@@ -103,19 +105,25 @@ async def download_report(request: ReportRequest):
              document.add_paragraph("暂无分析内容")
 
         # Save to a temporary file
-        file_filename = f"report_{request.school}_{request.major}.docx"
-        # Sanitize filename
-        safe_filename = "".join([c for c in file_filename if c.isalpha() or c.isdigit() or c in (' ', '-', '_', '.')]).strip()
-        if not safe_filename.endswith(".docx"):
-            safe_filename += ".docx"
-            
-        file_path = os.path.join(os.getcwd(), safe_filename)
+        # Use tempfile to create a unique file in the system temp directory
+        fd, file_path = tempfile.mkstemp(suffix=".docx")
+        os.close(fd) # Close the file descriptor, we'll write via Document.save
+        
         document.save(file_path)
         
+        # Clean up file after sending
+        def cleanup_file():
+            try:
+                if os.path.exists(file_path):
+                    os.remove(file_path)
+            except Exception as e:
+                print(f"Error cleaning up file {file_path}: {e}")
+
         return FileResponse(
             path=file_path, 
-            filename=safe_filename,
-            media_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            filename=f"{request.school}_{request.major}_培养方案改进分析报告.docx",
+            media_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            background=BackgroundTask(cleanup_file)
         )
     except Exception as e:
         print(f"Error generating report: {e}")
