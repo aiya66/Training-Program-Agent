@@ -94,16 +94,29 @@ async def get_majors(school_name: str, college_name: str):
 @router.get("/stats")
 async def get_stats(major: str = Query(..., description="Major name to generate stats for")):
     """
-    Get generated stats for a specific major (Deterministic mock).
+    Get generated stats for a specific major (Using real data from DataLoader where possible).
     """
-    # Deterministic hash generation logic (same as frontend for now)
+    # 1. Get Real Job & Company Data
+    jobs = data_loader.search_jobs_by_major(major, limit=None)
+    job_count = len(jobs)
+    
+    unique_companies = set()
+    for j in jobs:
+        if j.get('单位名称'):
+            unique_companies.add(j['单位名称'])
+    company_count = len(unique_companies)
+
+    # 2. Mock Reports & Policies (Since we don't have a real doc store for these yet)
+    # But we make them stable based on major hash
     base_hash = sum(ord(char) for char in major)
+    report_count = int((base_hash * 7) % 30) + 5
+    policy_count = int((base_hash * 3) % 20) + 5
     
     return {
-        "jobs": f"相关就业岗位{int((base_hash * 13) % 100) + 20}万个",
-        "companies": f"相关企业{int((base_hash * 113) % 5000) + 2000}家",
-        "reports": f"行业发展报告{int((base_hash * 7) % 30) + 5}个",
-        "policies": f"政策文件{int((base_hash * 3) % 20) + 5}个"
+        "jobs": f"相关就业岗位{job_count}个",
+        "companies": f"相关企业{company_count}家",
+        "reports": f"行业发展报告{report_count}个",
+        "policies": f"政策文件{policy_count}个"
     }
 
 @router.post("/agent/build-graph")

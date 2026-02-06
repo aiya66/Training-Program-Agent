@@ -122,7 +122,7 @@ function App() {
         const policyCountMatch = stats[3].match(/(\d+)/);
         
         const statsData = {
-            job_count: jobCountMatch ? jobCountMatch[0] + "0000" : "0", // "20" -> "200000"
+            job_count: jobCountMatch ? jobCountMatch[0] : "0", 
             report_count: reportCountMatch ? reportCountMatch[0] : "0",
             policy_count: policyCountMatch ? policyCountMatch[0] : "0",
             node_count: graphData?.entities?.length || 0

@@ -336,14 +336,25 @@ class KGService:
         # Prepare formatted intro
         intro_text = ""
         if stats_data:
-            job_count_display = stats_data.get('job_count', '200000')
-            report_count_display = stats_data.get('report_count', '5')
-            policy_count_display = stats_data.get('policy_count', '5')
+            # Prefer Real Data calculated above if available
+            real_job_count = job_count  # From data_loader
+            real_company_count = len(companies) # From data_loader aggregation
+            
+            # Use real data for jobs/companies, fallback to stats_data for reports/policies
+            job_count_display = f"{real_job_count}"
+            # Ensure we don't just say "2000", maybe "2000+" or exact. Let's use exact.
+            
+            report_count_display = stats_data.get('report_count', '5').replace("行业发展报告", "").replace("个", "")
+            policy_count_display = stats_data.get('policy_count', '5').replace("政策文件", "").replace("个", "")
             node_count_display = stats_data.get('node_count', str(len(graph_data.get('entities', []))))
+            
+            # If stats_data has raw numbers in string format like "相关就业岗位200个", extract digits?
+            # Actually, stats_data comes from get_stats response which is formatted. 
+            # But here we have the RAW real counts. Let's use them directly.
             
             intro_text = f"""
 **培养方案优化**
-本次优化基于互联网海量招聘数据{job_count_display}条，重庆市高质量招聘数据10184家企业805291岗位需求数，{report_count_display}个行业发展报告，{policy_count_display}份政策文件（区域发展战略2个，现代制造业22个，现代服务业5个）。构建含有{node_count_display}实体节点的知识图谱，能力图谱，素质图谱。
+本次优化基于互联网海量招聘数据{real_job_count}条，相关企业{real_company_count}家，{report_count_display}个行业发展报告，{policy_count_display}份政策文件（区域发展战略2个，现代制造业22个，现代服务业5个）。构建含有{node_count_display}实体节点的知识图谱，能力图谱，素质图谱。
 多智能体分别从培养目标，毕业要求，主干学科，课程设置，课程体系，教学计划，质量评估等方面进行优化，优化结果如下：
 """
 
