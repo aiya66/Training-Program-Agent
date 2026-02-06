@@ -30,6 +30,7 @@ import logo from '../zhinan_logo_v1.png';
 // Helper for ForceGraph resizing
 const GraphContainer = ({ data }) => {
   const containerRef = useRef();
+  const fgRef = useRef();
   const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
 
   useEffect(() => {
@@ -49,6 +50,17 @@ const GraphContainer = ({ data }) => {
     return () => resizeObserver.disconnect();
   }, []);
 
+  // Auto-zoom to fit when data or dimensions change
+  useEffect(() => {
+    if (fgRef.current && dimensions.width > 0 && dimensions.height > 0) {
+        // Delay slightly to ensure graph has processed data
+        const timer = setTimeout(() => {
+            fgRef.current.zoomToFit(500, 40);
+        }, 500);
+        return () => clearTimeout(timer);
+    }
+  }, [data, dimensions]);
+
   const nodes = data?.entities?.map(e => ({ ...e })) || [];
   const links = data?.relationships?.map(r => ({ source: r.head, target: r.tail, ...r })) || [];
 
@@ -56,9 +68,12 @@ const GraphContainer = ({ data }) => {
     <div ref={containerRef} className="w-full h-full min-h-[300px]">
       {dimensions.width > 0 && (
         <ForceGraph2D
+          ref={fgRef}
           width={dimensions.width}
           height={dimensions.height}
           graphData={{ nodes, links }}
+          cooldownTicks={100}
+          onEngineStop={() => fgRef.current?.zoomToFit(500, 40)}
           nodeCanvasObject={(node, ctx, globalScale) => {
             const label = node.name || node.id;
             const fontSize = 16/globalScale;
