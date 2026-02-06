@@ -59,13 +59,38 @@ const GraphContainer = ({ data }) => {
           width={dimensions.width}
           height={dimensions.height}
           graphData={{ nodes, links }}
-          nodeRelSize={6}
-          nodeColor={node => {
-            if (node.type === 'Major') return '#3b82f6';
-            if (node.category === 'Capability') return '#8b5cf6';
-            return '#64748b';
+          nodeCanvasObject={(node, ctx, globalScale) => {
+            const label = node.name || node.id;
+            const fontSize = 12/globalScale;
+            ctx.font = `${fontSize}px Sans-Serif`;
+            
+            // Determine color
+            let color = '#64748b';
+            if (node.type === 'Major') color = '#3b82f6';
+            else if (node.category === 'Capability') color = '#8b5cf6';
+
+            // Draw Node
+            const r = 6; 
+            ctx.beginPath();
+            ctx.arc(node.x, node.y, r, 0, 2 * Math.PI, false);
+            ctx.fillStyle = color;
+            ctx.fill();
+
+            // Draw Text
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'top';
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+            ctx.fillText(label, node.x, node.y + r + 2);
           }}
-          linkColor={() => 'rgba(255,255,255,0.2)'}
+          nodePointerAreaPaint={(node, color, ctx) => {
+            const r = 6;
+            ctx.beginPath();
+            ctx.arc(node.x, node.y, r, 0, 2 * Math.PI, false);
+            ctx.fillStyle = color;
+            ctx.fill();
+          }}
+          linkColor={() => 'rgba(255,255,255,0.6)'}
+          linkWidth={2}
           backgroundColor="rgba(0,0,0,0)"
         />
       )}
