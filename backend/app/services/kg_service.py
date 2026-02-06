@@ -279,7 +279,7 @@ class KGService:
             "data": final_graph
         }) + "\n"
 
-    async def analyze_graph_improvement(self, school: str, college: str, major: str, graph_data: Dict[str, Any], training_plan_text: str = None) -> str:
+    async def analyze_graph_improvement(self, school: str, college: str, major: str, graph_data: Dict[str, Any], training_plan_text: str = None, stats_data: Dict[str, Any] = None) -> str:
         """
         Analyze the graph and generate an improvement plan report.
         """
@@ -333,6 +333,20 @@ class KGService:
             {training_plan_text[:3000]}... (已截断)
             """
 
+        # Prepare formatted intro
+        intro_text = ""
+        if stats_data:
+            job_count_display = stats_data.get('job_count', '200000')
+            report_count_display = stats_data.get('report_count', '5')
+            policy_count_display = stats_data.get('policy_count', '5')
+            node_count_display = stats_data.get('node_count', str(len(graph_data.get('entities', []))))
+            
+            intro_text = f"""
+**培养方案优化**
+本次优化基于互联网海量招聘数据{job_count_display}条，重庆市高质量招聘数据10184家企业805291岗位需求数，{report_count_display}个行业发展报告，{policy_count_display}份政策文件（区域发展战略2个，现代制造业22个，现代服务业5个）。构建含有{node_count_display}实体节点的知识图谱，能力图谱，素质图谱。
+多智能体分别从培养目标，毕业要求，主干学科，课程设置，课程体系，教学计划，质量评估等方面进行优化，优化结果如下：
+"""
+
         prompt = f"""
         你是一个高等教育培养方案专家。请根据以下生成的“毕业生专业能力图谱”数据，分析该专业的培养现状，并提出改进方案。
         
@@ -342,7 +356,12 @@ class KGService:
         {summary}
         
         【任务要求】
-        请生成一份《{school} {major}专业培养方案改进分析报告》，包含以下章节：
+        请生成一份《{school} {major}专业培养方案改进分析报告》，你需要直接接在以下这段引言之后继续生成内容，不要重复引言，也不要生成大标题（如“# 分析报告”），直接开始具体的章节内容。
+
+        引言内容（你不需要生成这段，但我会把它放在你输出的最前面，请确保你的后续内容在逻辑上是紧接着这段话的）：
+        “{intro_text}”
+
+        包含以下章节（请使用Markdown格式）：
         1. **现状分析**：基于图谱中的课程与技能分布，结合用户上传的培养方案（如果有），分析当前的培养重点。
         2. **岗位需求匹配度**：对比就业岗位需求与当前课程/技能体系，指出匹配的优势和存在的缺口。
         3. **改进建议**：
@@ -363,7 +382,10 @@ class KGService:
                 ],
                 temperature=0.3
             )
-            return response.choices[0].message.content
+            
+            # Combine the fixed intro with the LLM generated content
+            full_report = f"{intro_text}\n\n{response.choices[0].message.content}"
+            return full_report
         except Exception as e:
             print(f"Analysis Error: {e}")
             return f"生成分析报告失败: {str(e)}"

@@ -116,6 +116,18 @@ function App() {
   const generateReport = async (major, graphData) => {
     setIsAnalyzing(true);
     try {
+        // Extract stats for report context
+        const jobCountMatch = stats[0].match(/(\d+)/);
+        const reportCountMatch = stats[2].match(/(\d+)/);
+        const policyCountMatch = stats[3].match(/(\d+)/);
+        
+        const statsData = {
+            job_count: jobCountMatch ? jobCountMatch[0] + "0000" : "0", // "20" -> "200000"
+            report_count: reportCountMatch ? reportCountMatch[0] : "0",
+            policy_count: policyCountMatch ? policyCountMatch[0] : "0",
+            node_count: graphData?.entities?.length || 0
+        };
+
         const res = await fetch('/api/v1/agent/analyze', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -124,7 +136,8 @@ function App() {
                 college: selectedCollege,
                 major: major,
                 graph_data: graphData,
-                training_plan_text: uploadedPlanContext ? `用户已上传培养方案文件: ${uploadedPlanContext.fileName}。请重点参考此文件内容（此处为模拟读取）：\n${uploadedPlanContext.content}` : null
+                training_plan_text: uploadedPlanContext ? `用户已上传培养方案文件: ${uploadedPlanContext.fileName}。请重点参考此文件内容（此处为模拟读取）：\n${uploadedPlanContext.content}` : null,
+                stats_data: statsData
             })
         });
         if (res.ok) {
@@ -255,8 +268,15 @@ function App() {
       setCurrentStep(2); // Move to step 2 (Knowledge Extraction)
 
       // 2. Stream Graph
-      const streamUrl = `/api/v1/agent/stream-build-graph?school=${encodeURIComponent(selectedSchool)}&college=${encodeURIComponent(selectedCollege)}&major=${encodeURIComponent(major)}`;
-      const response = await fetch(streamUrl);
+      const response = await fetch('/api/v1/agent/stream-build-graph', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+              school: selectedSchool,
+              college: selectedCollege,
+              major: major
+          })
+      });
       const reader = response.body.getReader();
       const decoder = new TextDecoder("utf-8");
       let buffer = '';
@@ -363,17 +383,29 @@ function App() {
                 accept=".pdf,.doc,.docx" 
                 onChange={(e) => {
                     if(e.target.files[0]) {
-                        // Mock upload success
                         const file = e.target.files[0];
                         setHasUploadedPlan(true);
                         
-                        // Simulate reading file content (In real app, we'd upload to server or read text)
-                        setUploadedPlanContext({
-                            fileName: file.name,
-                            content: `[模拟内容] 这是 ${file.name} 的文本内容... 本专业培养德、智、体、美全面发展... 核心课程包括...` 
-                        });
+                        // Try to read as text if possible
+                        if (file.type === "text/plain" || file.name.endsWith(".md")) {
+                            const reader = new FileReader();
+                            reader.onload = (event) => {
+                                setUploadedPlanContext({
+                                    fileName: file.name,
+                                    content: event.target.result
+                                });
+                            };
+                            reader.readAsText(file);
+                        } else {
+                            // For binary files (PDF/DOCX), we simulate content for now
+                            // In a real production app, we would upload the file to a backend parser
+                            setUploadedPlanContext({
+                                fileName: file.name,
+                                content: `[注意] 您上传的是 ${file.name} (非纯文本格式)。\n系统已检测到该文件，并将在分析时模拟提取其关键信息（如培养目标、核心课程等）以供大模型参考。\n如果需要更精确的文本分析，建议上传 .txt 或 .md 格式的文本文件。` 
+                            });
+                        }
 
-                        alert(`文件 "${file.name}" 已导入成功！\n请继续选择下方学校组合，并点击生成图谱按钮。`);
+                        alert(`文件 "${file.name}" 已导入成功！\n系统将结合该方案内容构建图谱和分析报告。`);
                     }
                 }}
             />

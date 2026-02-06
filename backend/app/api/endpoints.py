@@ -136,11 +136,11 @@ async def build_knowledge_graph(
         ]
     }
 
-@router.get("/agent/stream-build-graph")
+@router.post("/agent/stream-build-graph")
 async def stream_build_graph(
-    school: str = Query(...), 
-    college: str = Query(...), 
-    major: str = Query(...)
+    school: str = Body(..., embed=True), 
+    college: str = Body(..., embed=True), 
+    major: str = Body(..., embed=True)
 ):
     """
     Stream the KG construction process with real-time updates using Server-Sent Events (SSE) compatible format.
@@ -156,12 +156,13 @@ async def analyze_graph(
     college: str = Body(..., embed=True),
     major: str = Body(..., embed=True),
     graph_data: Dict = Body(..., embed=True),
-    training_plan_text: str = Body(None, embed=True)
+    training_plan_text: str = Body(None, embed=True),
+    stats_data: Dict = Body(None, embed=True)
 ):
     """
     Generate an improvement analysis report based on the knowledge graph.
     """
-    report = await kg_service.analyze_graph_improvement(school, college, major, graph_data, training_plan_text)
+    report = await kg_service.analyze_graph_improvement(school, college, major, graph_data, training_plan_text, stats_data)
     return {"report": report}
 
 @router.post("/agent/download-report")
