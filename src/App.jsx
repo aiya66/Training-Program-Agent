@@ -27,6 +27,8 @@ import AnalysisReport from './components/AnalysisReport';
 import ProcessLog from './components/ProcessLog';
 import logo from '../zhinan_logo_v1.png';
 
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api/v1';
+
 // Helper for ForceGraph resizing
 const GraphContainer = ({ data }) => {
   const containerRef = useRef();
@@ -202,7 +204,7 @@ function App() {
 
     setIsDownloading(true);
     try {
-      const res = await fetch('/api/v1/agent/download-report', {
+      const res = await fetch(`${API_BASE_URL}/agent/download-report`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -244,7 +246,7 @@ function App() {
         if (selectedSchool !== school) {
             setCollegeOptions([]); 
             setMajorOptions([]);
-            fetch(`/api/v1/schools/${encodeURIComponent(school)}/colleges`)
+            fetch(`${API_BASE_URL}/schools/${encodeURIComponent(school)}/colleges`)
                 .then(res => res.json())
                 .then(data => setCollegeOptions(data))
                 .catch(err => console.error("Failed to fetch colleges", err));
@@ -262,7 +264,7 @@ function App() {
         // Fetch Majors
         if (selectedCollege !== college) {
             setMajorOptions([]);
-            fetch(`/api/v1/schools/${encodeURIComponent(selectedSchool)}/colleges/${encodeURIComponent(college)}/majors`)
+            fetch(`${API_BASE_URL}/schools/${encodeURIComponent(selectedSchool)}/colleges/${encodeURIComponent(college)}/majors`)
                 .then(res => res.json())
                 .then(data => setMajorOptions(data))
                 .catch(err => console.error("Failed to fetch majors", err));
