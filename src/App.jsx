@@ -650,7 +650,7 @@ function App() {
                             <button 
                                 onClick={() => graphData && setIsFullGraphOpen(true)}
                                 disabled={!graphData}
-                                className={`flex items-center gap-2 px-3 py-1.5 rounded-lg transition-all text-xs font-medium border border-transparent ${
+                                className={`flex items-center gap-2 px-4 py-2 rounded-lg transition-all text-sm font-medium border border-transparent ${
                                     graphData 
                                         ? 'bg-blue-500/20 text-blue-300 hover:bg-blue-500/30 hover:text-blue-200 border-blue-500/30 cursor-pointer' 
                                         : loading 
@@ -661,17 +661,17 @@ function App() {
                             >
                                 {loading ? (
                                     <>
-                                        <div className="w-3 h-3 border-2 border-yellow-400/30 border-t-yellow-400 rounded-full animate-spin" />
+                                        <div className="w-4 h-4 border-2 border-yellow-400/30 border-t-yellow-400 rounded-full animate-spin" />
                                         <span>正在生成</span>
                                     </>
                                 ) : graphData ? (
                                     <>
-                                        <Maximize size={14} />
+                                        <Maximize size={18} />
                                         <span>点击查看</span>
                                     </>
                                 ) : (
                                     <>
-                                        <Maximize size={14} className="opacity-50"/>
+                                        <Maximize size={18} className="opacity-50"/>
                                         <span>等待生成</span>
                                     </>
                                 )}
