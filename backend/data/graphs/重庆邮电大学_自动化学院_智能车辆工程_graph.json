@@ -1,0 +1,698 @@
+{
+  "entities": [
+    {
+      "id": "major_智能车辆工程",
+      "name": "智能车辆工程",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1362038",
+      "name": "助理工艺工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆华裕胜久材料科技有限公司",
+      "name": "重庆华裕胜久材料科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362042",
+      "name": "助理工业化工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆华裕胜久材料科技有限公司",
+      "name": "重庆华裕胜久材料科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1362044",
+      "name": "助理项目工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆华裕胜久材料科技有限公司",
+      "name": "重庆华裕胜久材料科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_20583209",
+      "name": "采购工程师（铁山路基地）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45155531",
+      "name": "技术管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45155530",
+      "name": "技术管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45099532",
+      "name": "热成型实习工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44537089",
+      "name": "开发技术员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45066189",
+      "name": "项目助理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45066135",
+      "name": "技术管培生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45059239",
+      "name": "质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_16815522",
+      "name": "项目经理/主管",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_45023081",
+      "name": "cnc学徒",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44996808",
+      "name": "应届生：高分子",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44305464",
+      "name": "2025届管培生（结构设计工程师）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44914195",
+      "name": "2025届管培生（结构设计工程师）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44918434",
+      "name": "汽车产品工程师（2025届储备生）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44748409",
+      "name": "摩托车设计工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44222968",
+      "name": "涂装工艺技术岗",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_10453622",
+      "name": "冲压工程师6K+以上",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_19188406",
+      "name": "项目工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_19553970",
+      "name": "质量工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44502546",
+      "name": "理工类应届毕业生",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "智能车辆工程",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "工艺优化与维护能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "工业化实现能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "项目管理能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "工艺文件编制",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e6",
+      "name": "生产数据分析",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e7",
+      "name": "生产线规划",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e8",
+      "name": "PFMEA与控制计划制定",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e9",
+      "name": "项目进度跟踪",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "APQP流程管理",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e11",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e12",
+      "name": "问题解决",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e13",
+      "name": "助理工艺工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e14",
+      "name": "助理工业化工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e15",
+      "name": "助理项目工程师",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362038"
+    },
+    {
+      "head": "job_1362038",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆华裕胜久材料科技有限公司"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362042"
+    },
+    {
+      "head": "job_1362042",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆华裕胜久材料科技有限公司"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1362044"
+    },
+    {
+      "head": "job_1362044",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆华裕胜久材料科技有限公司"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_20583209"
+    },
+    {
+      "head": "job_20583209",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45155531"
+    },
+    {
+      "head": "job_45155531",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45155530"
+    },
+    {
+      "head": "job_45155530",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45099532"
+    },
+    {
+      "head": "job_45099532",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44537089"
+    },
+    {
+      "head": "job_44537089",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45066189"
+    },
+    {
+      "head": "job_45066189",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45066135"
+    },
+    {
+      "head": "job_45066135",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45059239"
+    },
+    {
+      "head": "job_45059239",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_16815522"
+    },
+    {
+      "head": "job_16815522",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45023081"
+    },
+    {
+      "head": "job_45023081",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44996808"
+    },
+    {
+      "head": "job_44996808",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44305464"
+    },
+    {
+      "head": "job_44305464",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44914195"
+    },
+    {
+      "head": "job_44914195",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44918434"
+    },
+    {
+      "head": "job_44918434",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44748409"
+    },
+    {
+      "head": "job_44748409",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44222968"
+    },
+    {
+      "head": "job_44222968",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_10453622"
+    },
+    {
+      "head": "job_10453622",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_19188406"
+    },
+    {
+      "head": "job_19188406",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_19553970"
+    },
+    {
+      "head": "job_19553970",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_智能车辆工程",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44502546"
+    },
+    {
+      "head": "job_44502546",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e13"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e14"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e15"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e5"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e6"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e12"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e7"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e8"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e10"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e13",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e14",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    }
+  ]
+}

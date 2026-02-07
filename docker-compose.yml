@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: training-agent-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount the data directory into the container
+      - ./events_kg/input/就业市场数据(2):/app/data
+    environment:
+      - DATA_DIR=/app/data
+    env_file:
+      - ./backend/.env
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: training-agent-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

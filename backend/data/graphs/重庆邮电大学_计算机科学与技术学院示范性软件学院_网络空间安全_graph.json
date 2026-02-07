@@ -1,0 +1,220 @@
+{
+  "entities": [
+    {
+      "id": "major_网络空间安全",
+      "name": "网络空间安全",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_45063474",
+      "name": "新媒体运营专员",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_44992610",
+      "name": "网络安全工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_nan",
+      "name": "nan",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "网络空间安全",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "网络安全防护能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "网络攻击检测能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "数据安全分析能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "网络安全协议",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e6",
+      "name": "密码学",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e7",
+      "name": "网络攻防技术",
+      "type": "Course",
+      "category": "Support"
+    },
+    {
+      "id": "e8",
+      "name": "防火墙配置",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e9",
+      "name": "入侵检测系统",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "加密算法",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e11",
+      "name": "漏洞扫描",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e12",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e13",
+      "name": "持续学习",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e14",
+      "name": "网络安全工程师",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_网络空间安全",
+      "relation": "TARGETS_JOB",
+      "tail": "job_45063474"
+    },
+    {
+      "head": "job_45063474",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "major_网络空间安全",
+      "relation": "TARGETS_JOB",
+      "tail": "job_44992610"
+    },
+    {
+      "head": "job_44992610",
+      "relation": "OFFERED_BY",
+      "tail": "company_nan"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e14"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e5",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e6",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e7",
+      "relation": "SUPPORTS_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e8"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e10"
+    },
+    {
+      "head": "e3",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e11"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e12"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e13"
+    },
+    {
+      "head": "e14",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e14",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e14",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    }
+  ]
+}

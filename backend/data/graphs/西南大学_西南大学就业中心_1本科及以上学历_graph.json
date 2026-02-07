@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "id": "major_1、本科及以上学历",
+      "name": "1、本科及以上学历",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1225769",
+      "name": "硬件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆龙润汽车转向器有限公司",
+      "name": "重庆龙润汽车转向器有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1287369",
+      "name": "EPS性能评价及调试工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆龙润汽车转向器有限公司",
+      "name": "重庆龙润汽车转向器有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1308744",
+      "name": "自动化软件工程师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州长川科技股份有限公司",
+      "name": "杭州长川科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1311807",
+      "name": "硬件工程师（模拟）",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_杭州长川科技股份有限公司",
+      "name": "杭州长川科技股份有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "mock1",
+      "name": "示例专业",
+      "type": "Major",
+      "category": "Knowledge"
+    },
+    {
+      "id": "mock2",
+      "name": "示例课程",
+      "type": "Course",
+      "category": "Knowledge"
+    },
+    {
+      "id": "mock3",
+      "name": "示例技能",
+      "type": "Skill",
+      "category": "Capability"
+    },
+    {
+      "id": "mock4",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1225769"
+    },
+    {
+      "head": "job_1225769",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆龙润汽车转向器有限公司"
+    },
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1287369"
+    },
+    {
+      "head": "job_1287369",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆龙润汽车转向器有限公司"
+    },
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1308744"
+    },
+    {
+      "head": "job_1308744",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州长川科技股份有限公司"
+    },
+    {
+      "head": "major_1、本科及以上学历",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1311807"
+    },
+    {
+      "head": "job_1311807",
+      "relation": "OFFERED_BY",
+      "tail": "company_杭州长川科技股份有限公司"
+    },
+    {
+      "head": "mock1",
+      "relation": "HAS_COURSE",
+      "tail": "mock2"
+    },
+    {
+      "head": "mock2",
+      "relation": "DEVELOPS_SKILL",
+      "tail": "mock3"
+    },
+    {
+      "head": "mock2",
+      "relation": "CULTIVATES_QUALITY",
+      "tail": "mock4"
+    }
+  ]
+}

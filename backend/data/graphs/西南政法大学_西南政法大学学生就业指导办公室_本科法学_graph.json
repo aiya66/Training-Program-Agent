@@ -1,0 +1,335 @@
+{
+  "entities": [
+    {
+      "id": "major_【本科】法学",
+      "name": "【本科】法学",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1326058",
+      "name": "课程顾问",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆渝中众合培训学校",
+      "name": "重庆渝中众合培训学校",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1326149",
+      "name": "学习管理老师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_重庆指北针教育科技有限公司",
+      "name": "重庆指北针教育科技有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1326191",
+      "name": "实习律师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江浙杭（宁波）律师事务所",
+      "name": "浙江浙杭（宁波）律师事务所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1326192",
+      "name": "实习律师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_浙江浙杭（宁波）律师事务所",
+      "name": "浙江浙杭（宁波）律师事务所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "job_1329610",
+      "name": "律师助理",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_四川自优律师事务所",
+      "name": "四川自优律师事务所",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "法学",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "法律实务能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e3",
+      "name": "客户咨询与接待能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e4",
+      "name": "课程销售能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "定制课程方案能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e6",
+      "name": "客户关系维护能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e7",
+      "name": "学习规划与指导能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e8",
+      "name": "信息收集与分析能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e9",
+      "name": "司法考试",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "沟通能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e11",
+      "name": "团队协作",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e12",
+      "name": "责任感",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e13",
+      "name": "应变能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e14",
+      "name": "销售意识",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e15",
+      "name": "课程顾问",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e16",
+      "name": "学习管理老师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e17",
+      "name": "实习律师",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "e18",
+      "name": "律师助理",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_【本科】法学",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1326058"
+    },
+    {
+      "head": "job_1326058",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆渝中众合培训学校"
+    },
+    {
+      "head": "major_【本科】法学",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1326149"
+    },
+    {
+      "head": "job_1326149",
+      "relation": "OFFERED_BY",
+      "tail": "company_重庆指北针教育科技有限公司"
+    },
+    {
+      "head": "major_【本科】法学",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1326191"
+    },
+    {
+      "head": "job_1326191",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江浙杭（宁波）律师事务所"
+    },
+    {
+      "head": "major_【本科】法学",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1326192"
+    },
+    {
+      "head": "job_1326192",
+      "relation": "OFFERED_BY",
+      "tail": "company_浙江浙杭（宁波）律师事务所"
+    },
+    {
+      "head": "major_【本科】法学",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1329610"
+    },
+    {
+      "head": "job_1329610",
+      "relation": "OFFERED_BY",
+      "tail": "company_四川自优律师事务所"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e17"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e18"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e10"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e11"
+    },
+    {
+      "head": "e2",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e12"
+    },
+    {
+      "head": "e2",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e3"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e15",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e16",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e7"
+    },
+    {
+      "head": "e16",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e8"
+    },
+    {
+      "head": "e16",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e17",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e18",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e2"
+    },
+    {
+      "head": "e3",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e10"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e14"
+    },
+    {
+      "head": "e6",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e10"
+    },
+    {
+      "head": "e7",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e10"
+    },
+    {
+      "head": "e8",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e13"
+    }
+  ]
+}

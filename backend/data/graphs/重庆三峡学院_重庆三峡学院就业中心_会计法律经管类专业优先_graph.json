@@ -1,0 +1,280 @@
+{
+  "entities": [
+    {
+      "id": "major_会计、法律、经管类专业优先",
+      "name": "会计、法律、经管类专业优先",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "job_1377818",
+      "name": "会计",
+      "type": "Job",
+      "category": "Target"
+    },
+    {
+      "id": "company_首账房商务服务（重庆）有限公司",
+      "name": "首账房商务服务（重庆）有限公司",
+      "type": "Company",
+      "category": "Target"
+    },
+    {
+      "id": "e1",
+      "name": "会计",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e2",
+      "name": "法律",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e3",
+      "name": "经管类",
+      "type": "Major",
+      "category": "Core"
+    },
+    {
+      "id": "e4",
+      "name": "账务规划与设计能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e5",
+      "name": "税务申报与处理能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e6",
+      "name": "财务报表编制与分析能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e7",
+      "name": "预算编制能力",
+      "type": "Capability",
+      "category": "Capability"
+    },
+    {
+      "id": "e8",
+      "name": "会计经验",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e9",
+      "name": "一般纳税人账务处理",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e10",
+      "name": "小规模纳税人账务处理",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e11",
+      "name": "电子税务局系统操作",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e12",
+      "name": "税务工作独立操作",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e13",
+      "name": "财务报表出具",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e14",
+      "name": "报税",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e15",
+      "name": "装订",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e16",
+      "name": "开票",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e17",
+      "name": "沟通互动",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e18",
+      "name": "国家政策趋势熟知",
+      "type": "Skill",
+      "category": "Skill"
+    },
+    {
+      "id": "e19",
+      "name": "服务意识",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e20",
+      "name": "监督能力",
+      "type": "Quality",
+      "category": "Quality"
+    },
+    {
+      "id": "e21",
+      "name": "会计",
+      "type": "Job",
+      "category": "Target"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "major_会计、法律、经管类专业优先",
+      "relation": "TARGETS_JOB",
+      "tail": "job_1377818"
+    },
+    {
+      "head": "job_1377818",
+      "relation": "OFFERED_BY",
+      "tail": "company_首账房商务服务（重庆）有限公司"
+    },
+    {
+      "head": "e1",
+      "relation": "TARGETS_JOB",
+      "tail": "e21"
+    },
+    {
+      "head": "e2",
+      "relation": "TARGETS_JOB",
+      "tail": "e21"
+    },
+    {
+      "head": "e3",
+      "relation": "TARGETS_JOB",
+      "tail": "e21"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e1",
+      "relation": "CULTIVATES_CAPABILITY",
+      "tail": "e7"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e8"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e9"
+    },
+    {
+      "head": "e4",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e10"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e11"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e12"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e14"
+    },
+    {
+      "head": "e5",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e18"
+    },
+    {
+      "head": "e6",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e13"
+    },
+    {
+      "head": "e6",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e15"
+    },
+    {
+      "head": "e7",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e16"
+    },
+    {
+      "head": "e7",
+      "relation": "INCLUDES_SKILL",
+      "tail": "e17"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e19"
+    },
+    {
+      "head": "e4",
+      "relation": "REQUIRES_QUALITY",
+      "tail": "e20"
+    },
+    {
+      "head": "e21",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e4"
+    },
+    {
+      "head": "e21",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e5"
+    },
+    {
+      "head": "e21",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e6"
+    },
+    {
+      "head": "e21",
+      "relation": "REQUIRES_CAPABILITY",
+      "tail": "e7"
+    }
+  ]
+}
